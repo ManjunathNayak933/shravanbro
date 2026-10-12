@@ -72,8 +72,9 @@ a page. To turn it on:
 3. Open `https://api.telegram.org/bot<token>/getUpdates` in a browser, with your
    token in place of `<token>`. Copy the number after `"chat":{"id":`. That is
    your chat ID. If the list is empty, send the bot a message and reload.
-4. In Cloudflare, open **Workers & Pages → shrazfitworld → Settings → Variables
-   and Secrets**, and add two, for Production:
+4. In Cloudflare, open **Workers & Pages**, then this site's Pages project
+   (`demostore`, at shrazfitworld.pages.dev), then **Settings → Variables and
+   Secrets**, and add two, for Production:
    - `TELEGRAM_BOT_TOKEN`, type **Secret**: the token
    - `TELEGRAM_CHAT_ID`: the chat ID
 5. Deploy again (**Deployments → … → Retry deployment**, or any push). New
