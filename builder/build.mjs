@@ -57,6 +57,23 @@ await build({
   minify: true,
 });
 
+// The one thing here that runs on a server: a Pages Function that tells whoever
+// runs the demo, on Telegram, when someone opens a shop. Cloudflare Pages finds
+// it in functions/ and runs it for /api/preview only (_routes.json).
+await build({
+  ...shared,
+  entryPoints: [join(here, 'src', 'preview-function.ts')],
+  outfile: join(site, 'functions', 'api', 'preview.js'),
+  platform: 'browser',
+  format: 'esm',
+  target: 'es2022',
+  define: {
+    ...shared.define,
+    STORE_LABELS: JSON.stringify(Object.fromEntries(stores.map((data) => [data.key, data.meta.label]))),
+  },
+  banner: { js: '// Made by builder/build.mjs from builder/src/preview-function.ts. Change that, then build again.' },
+});
+
 const renderer = join(here, '.tmp', 'render.mjs');
 await build({
   ...shared,

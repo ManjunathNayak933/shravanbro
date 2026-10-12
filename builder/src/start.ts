@@ -1,6 +1,7 @@
+import { tellOwner } from './notify.ts';
 import {
   cleanHandle, cleanName, fill, isStore, isTheme, readProfile, saveProfile, themes, tokensOf,
-  type StoreKey, type ThemeKey,
+  type Profile, type StoreKey, type ThemeKey,
 } from './persona.ts';
 
 export interface StartStore {
@@ -52,7 +53,9 @@ function storeOf(key: StoreKey | null): StartStore {
 }
 
 // The frame shows the shop itself, only on a screen wide enough to sit beside
-// the form, and only once there is a name to put on it.
+// the form, and only once there is a name to put on it. The name and ID reach
+// it by message, never in its address, so nothing typed leaves the browser
+// before the shop is opened.
 const wide = window.matchMedia('(min-width: 64rem)');
 let framed: StoreKey | null = null;
 let ready = false;
@@ -66,7 +69,7 @@ function showShop(): void {
   if (framed !== store) {
     framed = store;
     ready = false;
-    frame.src = `/${store}/?${new URLSearchParams({ preview: '1', name, ig: profile.handle, theme: profile.theme })}`;
+    frame.src = `/${store}/?${new URLSearchParams({ preview: '1', theme: profile.theme })}`;
     return;
   }
   if (ready) frame.contentWindow?.postMessage({ kind: 'kubal-demo-profile', profile }, window.location.origin);
@@ -165,7 +168,9 @@ form.addEventListener('submit', (event) => {
   if (name === null) { nameInput.focus(); return; }
   if (handle === null) { igInput.focus(); return; }
   if (store === null) { storeInputs[0]?.focus(); return; }
-  saveProfile({ name, handle, theme: chosen(themeInputs, isTheme) ?? storeOf(store).theme, store });
+  const profile: Profile = { name, handle, theme: chosen(themeInputs, isTheme) ?? storeOf(store).theme, store };
+  saveProfile(profile);
+  tellOwner(profile, 'form');
   window.location.assign(destination(store));
 });
 

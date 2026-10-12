@@ -1,5 +1,6 @@
 import { createRoot } from 'react-dom/client';
 import { shopTree } from './app.tsx';
+import { tellOwner } from './notify.ts';
 import type { PageInput } from './pages.tsx';
 import {
   cleanHandle, cleanName, isStore, isTheme, linkParams, profileFromLink, readProfile, saveProfile,
@@ -87,10 +88,15 @@ function start(page: PageInput): void {
   }
   const store = isStore(page.store) ? page.store : 'health';
   const saved = readProfile();
+  // A ready-made link names someone, and its opening is news to whoever sent it,
+  // except when they open it themselves from their own message (quiet).
+  const sent = url.searchParams.has('name') && url.searchParams.has('ig');
+  const quiet = url.searchParams.has('quiet');
   const linked = profileFromLink(url.searchParams, store, saved);
-  if (linked !== null) {
-    saveProfile(linked);
-    for (const param of linkParams) url.searchParams.delete(param);
+  if (linked !== null) saveProfile(linked);
+  if (linked !== null && sent && !quiet) tellOwner(linked, 'link');
+  if (linked !== null || quiet) {
+    for (const param of [...linkParams, 'quiet']) url.searchParams.delete(param);
     window.history.replaceState(null, '', `${url.pathname}${url.search}${url.hash}`);
   }
   const profile = linked ?? saved;
