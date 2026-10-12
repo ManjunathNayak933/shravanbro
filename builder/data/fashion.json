@@ -1,0 +1,2132 @@
+{
+ "key": "fashion",
+ "meta": {
+  "cover": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/PinkWhimsyTubeDress_5.jpg?v=1791436226",
+  "label": "Fashion",
+  "blurb": "Clothes, jewellery and accessories",
+  "title": "Closet",
+  "description": "A Kubal demo shop for clothes, jewellery and accessories, from the labels that make them."
+ },
+ "shop": {
+  "storefront_id": "4841e53e-d42b-5c5e-ab89-56609f6784e0",
+  "logo_url": null,
+  "favicon_url": null,
+  "contact_phone": null,
+  "cover_url": null,
+  "avatar_url": null,
+  "share_image_url": null,
+  "store_name": "{first's} Closet",
+  "theme_color": "#111111",
+  "contact_email": "admin@kubal.online",
+  "contact_social": "{instagram}",
+  "subdomain": "closet",
+  "look": "studio",
+  "surface": null,
+  "heading_face": null,
+  "corners": null,
+  "card_style": null,
+  "photo_shape": null,
+  "header_style": null,
+  "collection_style": null,
+  "hero_style": "type",
+  "tagline": "Everyday fits, festive sets and the finishing touches.",
+  "bio": "{name's} edit of clothes and accessories from Indian labels. Every piece ships from the brand that makes it, and you check out on their own site.",
+  "announcement": "Concept preview by Kubal. Not a live shop, and {first} hasn't endorsed these products.",
+  "social_links": [
+   "{instagram}"
+  ],
+  "home_sections": [
+   "collections",
+   "new",
+   "collection_rows",
+   "departments",
+   "brands"
+  ],
+  "words": {
+   "creator_note_title": "How {first} styles it",
+   "search_placeholder": "Search {first's} Closet",
+   "hero_button": "Shop the edit",
+   "collections_title": "The edits",
+   "new_title": "Just in",
+   "departments_title": "Shop by category"
+  }
+ },
+ "products": [
+  {
+   "product_id": "ad9e2423-dcde-5b92-9e00-5706c682ab3f",
+   "title": "Pink Whimsy Tube Dress",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/PinkWhimsyTubeDress_5.jpg?v=1791436226",
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/PinkWhimsyTubeDress_4.jpg?v=1791436226",
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/PinkWhimsyTubeDress_2.jpg?v=1791436226"
+   ],
+   "brand_id": "2942c5ea-9bd5-509b-a850-db4ab42dff88",
+   "seller_name": "Bonkers Corner",
+   "tags": [
+    "Dresses"
+   ],
+   "price_from": 1399,
+   "mrp": 1599,
+   "discount_pct": 13,
+   "sort_order": 0,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "title": "Vintage Blue Washed Baggy Jeans",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/2_3x_ebbd312d-293c-471d-b749-59a49b8f230c.jpg?v=1791003693",
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/3_3x_6880ae3b-6372-4434-9173-a31ad39cd082.jpg?v=1791003693",
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/5_3x_a6aa2a0a-e289-4a4e-aba0-3f913fc901fd.jpg?v=1791003693"
+   ],
+   "brand_id": "c288ee04-70dc-5aee-a643-3ab492f1a192",
+   "seller_name": "Powerlook",
+   "tags": [
+    "Jeans"
+   ],
+   "price_from": 1799,
+   "mrp": 1799,
+   "discount_pct": 0,
+   "sort_order": 1,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "title": "Classic Zipper Hoodie",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/MustardYellow_0e69dc6e-f4b7-49ba-b08e-1f3ca6e2b1f2.jpg?v=1761032137",
+    "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/Black_4e9e12bc-d8d1-4639-9415-18db3cd4aa1d.jpg?v=1766119578",
+    "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/OliveGreen_eabeb599-3428-4030-8f07-241ea902d1d8.jpg?v=1766119578"
+   ],
+   "brand_id": "02056e40-c606-56a5-8183-ead762560f35",
+   "seller_name": "Nobero",
+   "tags": [
+    "Hoodies"
+   ],
+   "price_from": 1499,
+   "mrp": 3199,
+   "discount_pct": 53,
+   "sort_order": 2,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "f346d21e-8cb5-58b1-ad0f-86be449b0491",
+   "title": "Bunaai Sunset Stroll co-ord Set",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/IMG_6638.jpg?v=1749789917",
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/BunaaiCoordSet-6418.jpg?v=1749789917",
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/BunaaiCoordSet-6417.jpg?v=1749789917"
+   ],
+   "brand_id": "a609b7cc-ae7c-5411-868f-5f7220ebf9aa",
+   "seller_name": "Bunaai",
+   "tags": [
+    "Co-ords"
+   ],
+   "price_from": 2499,
+   "mrp": 2499,
+   "discount_pct": 0,
+   "sort_order": 3,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "title": "Off-White Embroidered Polo T-Shirt",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/ONLINE_ONLY_3x_fff1ac3f-467a-4b94-9925-7ab5d46ab059.jpg?v=1791376591",
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/4_3x_7a3678ab-d1e3-4d89-b8b2-abbf4a06fc37.jpg?v=1791350563",
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/6_3x_0b643d1c-3790-45e0-9f44-20789f6f3fbe.jpg?v=1791350563"
+   ],
+   "brand_id": "c288ee04-70dc-5aee-a643-3ab492f1a192",
+   "seller_name": "Powerlook",
+   "tags": [
+    "T-shirts"
+   ],
+   "price_from": 1499,
+   "mrp": 1499,
+   "discount_pct": 0,
+   "sort_order": 4,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "a05f238a-ff60-5503-9461-b804094b7e10",
+   "title": "Salty Sunset Signature Baseball Cap",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/HG-C-0055-OR-BE_MAIN3.png?v=1791288270",
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/HG-C-0055-OR-BE_MAIN2.png?v=1791288270",
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/HG-C-0055-OR-BE_MODEL2.png?v=1791288269"
+   ],
+   "brand_id": "4ad58a5f-a738-57e3-91c5-c94aff38a219",
+   "seller_name": "Salty",
+   "tags": [
+    "Caps"
+   ],
+   "price_from": 1089,
+   "mrp": 2178,
+   "discount_pct": 50,
+   "sort_order": 5,
+   "category": "accessories",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "7e4b1e18-bc57-5e9f-adac-25228d1763a9",
+   "title": "Midnight Black Shirt",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/midnightblackpyjamaset16.jpg?v=1780554854",
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/midnightblackpyjamaset3.jpg?v=1780554854",
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/midnightblackpyjamaset18.jpg?v=1780554854"
+   ],
+   "brand_id": "2942c5ea-9bd5-509b-a850-db4ab42dff88",
+   "seller_name": "Bonkers Corner",
+   "tags": [
+    "Shirts"
+   ],
+   "price_from": 1299,
+   "mrp": 1499,
+   "discount_pct": 13,
+   "sort_order": 6,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "826456aa-cc98-505a-9b29-3c59162e3351",
+   "title": "Bunaai Coastal Calm co-ord set",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/BunaaiCoordSet-6361.jpg?v=1749789927",
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/BunaaiCoordSet-6366.jpg?v=1749789927",
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/BunaaiCoordSet-6352.jpg?v=1749789927"
+   ],
+   "brand_id": "a609b7cc-ae7c-5411-868f-5f7220ebf9aa",
+   "seller_name": "Bunaai",
+   "tags": [
+    "Co-ords"
+   ],
+   "price_from": 2499,
+   "mrp": 2499,
+   "discount_pct": 0,
+   "sort_order": 7,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "7f4adde7-378d-5bca-bcb8-56538fe0ab61",
+   "title": "Bunaai Crisp Hour co-ord set",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/IMG_6631.jpg?v=1749789931",
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/BunaaiCoordSet-6542.jpg?v=1749789931",
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/BunaaiCoordSet-6546.jpg?v=1749789931"
+   ],
+   "brand_id": "a609b7cc-ae7c-5411-868f-5f7220ebf9aa",
+   "seller_name": "Bunaai",
+   "tags": [
+    "Co-ords"
+   ],
+   "price_from": 2499,
+   "mrp": 2499,
+   "discount_pct": 0,
+   "sort_order": 8,
+   "category": "apparel",
+   "listed_at": "2026-10-11T06:30:00.000Z"
+  },
+  {
+   "product_id": "751a76cd-ff9f-599b-96e8-9dfc6dd9c205",
+   "title": "Bunai Pink Coast Cotton Dress",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/SPRINGSUMMER2024-1404.jpg?v=1713422727",
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/SPRINGSUMMER2024-1408.jpg?v=1713422728",
+    "https://cdn.shopify.com/s/files/1/0105/8881/5418/files/SPRINGSUMMER2024-1356.jpg?v=1713422727"
+   ],
+   "brand_id": "a609b7cc-ae7c-5411-868f-5f7220ebf9aa",
+   "seller_name": "Bunaai",
+   "tags": [
+    "Dresses"
+   ],
+   "price_from": 4500,
+   "mrp": 5000,
+   "discount_pct": 10,
+   "sort_order": 9,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "title": "Natural Embroidered Kurta",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/3_3x_15b52f28-08ec-4e73-880e-973b2f082a41.jpg?v=1791034985",
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/2_3x_e97b18f4-9934-4ae0-a398-29b209ead6f1.jpg?v=1791034985",
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/6_3x_c3f3eb8d-1f2f-48fb-a10c-c4410e5ca4a4.jpg?v=1791034985"
+   ],
+   "brand_id": "c288ee04-70dc-5aee-a643-3ab492f1a192",
+   "seller_name": "Powerlook",
+   "tags": [
+    "Kurtas"
+   ],
+   "price_from": 1299,
+   "mrp": 1299,
+   "discount_pct": 0,
+   "sort_order": 10,
+   "category": "apparel",
+   "listed_at": "2026-10-11T06:30:00.000Z"
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "title": "Black Linen Kurta Shirt",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/5_86bad058-87ee-4c4a-b280-0040ec934bc6.jpg?v=1788433547",
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/2_04927c6f-f10f-494f-8f73-1ed05eefe82f.jpg?v=1788433547",
+    "https://cdn.shopify.com/s/files/1/0750/2685/8234/files/1_a0d26096-cd71-41a0-a937-70b1d889c4d1.jpg?v=1788433547"
+   ],
+   "brand_id": "c288ee04-70dc-5aee-a643-3ab492f1a192",
+   "seller_name": "Powerlook",
+   "tags": [
+    "Kurtas"
+   ],
+   "price_from": 1099,
+   "mrp": 1099,
+   "discount_pct": 0,
+   "sort_order": 11,
+   "category": "apparel",
+   "listed_at": "2026-10-11T06:30:00.000Z"
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "title": "Wanderer - Travel Joggers",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/Oatmeal_ea7da286-45b3-4c25-a3ad-7795f599659f.jpg?v=1786086800",
+    "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/0_aeec28eb-27c3-4a5e-9d2c-e05d111eca0b.jpg?v=1786086799",
+    "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/2_ece3156f-d636-4259-8b4a-6e9fd67ed6f9.jpg?v=1786086799"
+   ],
+   "brand_id": "02056e40-c606-56a5-8183-ead762560f35",
+   "seller_name": "Nobero",
+   "tags": [
+    "Joggers"
+   ],
+   "price_from": 1799,
+   "mrp": 1999,
+   "discount_pct": 10,
+   "sort_order": 12,
+   "category": "apparel",
+   "listed_at": "2026-10-11T06:30:00.000Z"
+  },
+  {
+   "product_id": "d97634dd-f169-5936-833f-26acb1e8ba57",
+   "title": "Moon Grey Shirt",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/moongreypyjamaset11.jpg?v=1780551351",
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/moongreypyjamaset3.jpg?v=1780551351",
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/moongreypyjamaset12.jpg?v=1780551350"
+   ],
+   "brand_id": "2942c5ea-9bd5-509b-a850-db4ab42dff88",
+   "seller_name": "Bonkers Corner",
+   "tags": [
+    "Shirts"
+   ],
+   "price_from": 1299,
+   "mrp": 1499,
+   "discount_pct": 13,
+   "sort_order": 13,
+   "category": "apparel",
+   "listed_at": "2026-10-11T06:30:00.000Z"
+  },
+  {
+   "product_id": "8ec17cff-0c55-5ab0-9b84-f5465490c641",
+   "title": "Bratz Little Black Top",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/Bonkerscorner_Bratz_Little_Black_Co-ord_Set_15.jpg?v=1743575023",
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/Bonkerscorner_Bratz_Little_Black_Co-ord_Set_2.jpg?v=1743575023",
+    "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/Bonkerscorner_Bratz_Little_Black_Co-ord_Set_16.jpg?v=1743575023"
+   ],
+   "brand_id": "2942c5ea-9bd5-509b-a850-db4ab42dff88",
+   "seller_name": "Bonkers Corner",
+   "tags": [
+    "Tops"
+   ],
+   "price_from": 500,
+   "mrp": 699,
+   "discount_pct": 28,
+   "sort_order": 14,
+   "category": "apparel",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "6b3bfd2e-83c8-566b-882f-1d97dd9121b8",
+   "title": "Xoxo Drip Necklace And Earrings Set",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/NEC-527-G-GR-1_MAIN.jpg?v=1791356389",
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/NEC-425-G-GR-1_MODEL.png?v=1791356389",
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/NEC-527-G-GR-1_MAIN2.jpg?v=1791356388"
+   ],
+   "brand_id": "4ad58a5f-a738-57e3-91c5-c94aff38a219",
+   "seller_name": "Salty",
+   "tags": [
+    "Jewellery sets"
+   ],
+   "price_from": 749,
+   "mrp": 1499,
+   "discount_pct": 50,
+   "sort_order": 15,
+   "category": "jewellery",
+   "listed_at": "2026-10-11T06:30:00.000Z"
+  },
+  {
+   "product_id": "b9134865-8f8f-5f77-bb25-a461219d5359",
+   "title": "Peach Zone Earrings And Bracelet Set",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/EBC-497-G-1_MAIN.jpg?v=1791356366",
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/EBC-497-G-1_MAIN2.jpg?v=1791356365",
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/EBC-395-G-1_MODEL.png?v=1791356366"
+   ],
+   "brand_id": "4ad58a5f-a738-57e3-91c5-c94aff38a219",
+   "seller_name": "Salty",
+   "tags": [
+    "Jewellery sets"
+   ],
+   "price_from": 599,
+   "mrp": 1199,
+   "discount_pct": 50,
+   "sort_order": 16,
+   "category": "jewellery",
+   "listed_at": "2026-10-04T06:30:00.000Z"
+  },
+  {
+   "product_id": "556a5c86-b5f5-5437-b875-970a5aadd6f9",
+   "title": "Salty Marmalade Meow Baseball Cap",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/HG-C-0054-OR-BK_MAIN3.png?v=1791288300",
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/HG-C-0054-OR-BK_MAIN2.png?v=1791288300",
+    "https://cdn.shopify.com/s/files/1/0644/2457/5191/files/HG-C-0054-OR-BK_MODEL2.jpg?v=1791288299"
+   ],
+   "brand_id": "4ad58a5f-a738-57e3-91c5-c94aff38a219",
+   "seller_name": "Salty",
+   "tags": [
+    "Caps"
+   ],
+   "price_from": 1089,
+   "mrp": 2178,
+   "discount_pct": 50,
+   "sort_order": 17,
+   "category": "accessories",
+   "listed_at": "2026-10-11T06:30:00.000Z"
+  },
+  {
+   "product_id": "d9913461-b3a9-5138-8dca-9def7e31e284",
+   "title": "frontrunner",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0661/7423/files/reshoot_frontrunner_2026_01_4777460f-a33c-477f-82b6-a8137feda1be.jpg?v=1781747403",
+    "https://cdn.shopify.com/s/files/1/0661/7423/files/reshoot_frontrunner_2026_02_79914450-7e8c-4d00-89cf-36997b987620.jpg?v=1781747403",
+    "https://cdn.shopify.com/s/files/1/0661/7423/files/reshoot_frontrunner_2026_03_05aac38d-6ae6-4174-a4fe-47029780a2e0.jpg?v=1781747403"
+   ],
+   "brand_id": "c8c7e740-7525-5e1c-961c-f5a92271ba55",
+   "seller_name": "Urban Monkey",
+   "tags": [
+    "Caps"
+   ],
+   "price_from": 1500,
+   "mrp": 1500,
+   "discount_pct": 0,
+   "sort_order": 18,
+   "category": "accessories",
+   "listed_at": "2026-10-11T06:30:00.000Z"
+  }
+ ],
+ "variants": [
+  {
+   "product_id": "ad9e2423-dcde-5b92-9e00-5706c682ab3f",
+   "variant_id": "b6d231c7-4d42-577a-bdc8-afd50caf6468",
+   "title": "XS",
+   "price": 1399,
+   "option_values": {
+    "Size": "XS"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ad9e2423-dcde-5b92-9e00-5706c682ab3f",
+   "variant_id": "f57a8d15-037a-5d59-9aa0-6b165948890f",
+   "title": "S",
+   "price": 1399,
+   "option_values": {
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ad9e2423-dcde-5b92-9e00-5706c682ab3f",
+   "variant_id": "f7afa6e6-ac0e-552e-a6aa-b82111db10e8",
+   "title": "M",
+   "price": 1399,
+   "option_values": {
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ad9e2423-dcde-5b92-9e00-5706c682ab3f",
+   "variant_id": "5158faa6-068a-586b-b036-35c58de5d8d6",
+   "title": "L",
+   "price": 1399,
+   "option_values": {
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ad9e2423-dcde-5b92-9e00-5706c682ab3f",
+   "variant_id": "222185e6-78d7-551d-bbdd-f377f4820902",
+   "title": "XL",
+   "price": 1399,
+   "option_values": {
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ad9e2423-dcde-5b92-9e00-5706c682ab3f",
+   "variant_id": "4ac5881b-2cac-5b67-9bd9-7d50bf71ce18",
+   "title": "XXL",
+   "price": 1399,
+   "option_values": {
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "variant_id": "8b967e97-6a9f-5b3e-9dfe-064f15d04def",
+   "title": "28 / Blue",
+   "price": 1799,
+   "option_values": {
+    "Size": "28",
+    "Color": "Blue"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "variant_id": "0781fef6-fbb6-5e53-a1fc-a0ee7552ee64",
+   "title": "30 / Blue",
+   "price": 1799,
+   "option_values": {
+    "Size": "30",
+    "Color": "Blue"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "variant_id": "fb3c5d23-37fe-5df5-a9ad-a34740d970f9",
+   "title": "32 / Blue",
+   "price": 1799,
+   "option_values": {
+    "Size": "32",
+    "Color": "Blue"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "variant_id": "d73dfb9c-59d2-50fe-9aab-ed2ecb6cad88",
+   "title": "34 / Blue",
+   "price": 1799,
+   "option_values": {
+    "Size": "34",
+    "Color": "Blue"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "variant_id": "14a7eea6-4bbb-5e80-a905-0c1c1d85a190",
+   "title": "36 / Blue",
+   "price": 1799,
+   "option_values": {
+    "Size": "36",
+    "Color": "Blue"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "variant_id": "3cb70af0-e31a-5703-a1e6-0b29da5cb615",
+   "title": "38 / Blue",
+   "price": 1799,
+   "option_values": {
+    "Size": "38",
+    "Color": "Blue"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "variant_id": "ee344e7f-8000-5eb1-862c-bc2c0ffb7544",
+   "title": "40 / Blue",
+   "price": 1799,
+   "option_values": {
+    "Size": "40",
+    "Color": "Blue"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e2525a61-66d5-5a00-a71e-9797843ebc41",
+   "variant_id": "81ce60a4-191d-5e76-aeaf-af8cf50f690a",
+   "title": "42 / Blue",
+   "price": 1799,
+   "option_values": {
+    "Size": "42",
+    "Color": "Blue"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "1ea8a6c4-3c2e-5878-9ccf-a833dce4f97d",
+   "title": "Mustard Yellow / S",
+   "price": 1499,
+   "option_values": {
+    "Color": "Mustard Yellow",
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "86499ba5-65a3-56f1-9f26-8639cf510d56",
+   "title": "Mustard Yellow / M",
+   "price": 1499,
+   "option_values": {
+    "Color": "Mustard Yellow",
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "8767b35a-736a-5c8c-93a3-a32a38e962e2",
+   "title": "Mustard Yellow / L",
+   "price": 1499,
+   "option_values": {
+    "Color": "Mustard Yellow",
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "5f450f2e-5ee5-5756-bd48-99c31b5a3536",
+   "title": "Mustard Yellow / XL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Mustard Yellow",
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "780859d0-325a-5c48-ad4f-fe3bef181a44",
+   "title": "Mustard Yellow / XXL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Mustard Yellow",
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "37c4e133-a0a4-5a95-b14c-f705ccaed976",
+   "title": "Mustard Yellow / XXXL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Mustard Yellow",
+    "Size": "XXXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "852fdbe4-2bf6-525b-a4a9-95c628f756fb",
+   "title": "Black / S",
+   "price": 1499,
+   "option_values": {
+    "Color": "Black",
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "b1297d4e-1194-59aa-a5f8-05ce5ab80090",
+   "title": "Black / M",
+   "price": 1499,
+   "option_values": {
+    "Color": "Black",
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "1b9dd70d-4b5c-531a-83ff-334d430cdba2",
+   "title": "Black / L",
+   "price": 1499,
+   "option_values": {
+    "Color": "Black",
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "49129057-236f-5d41-a39b-35b20691bfb9",
+   "title": "Black / XL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Black",
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "e573c50a-6e3d-5b20-aaa4-558a5abf519b",
+   "title": "Black / XXL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Black",
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "38f587e9-f49d-5ff7-a77c-02826170418b",
+   "title": "Black / XXXL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Black",
+    "Size": "XXXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "f7659717-3569-5d39-9f62-24a57e40806f",
+   "title": "Olive Green / S",
+   "price": 1499,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "84c0ec29-ce1e-571f-97bb-b92648b96507",
+   "title": "Olive Green / M",
+   "price": 1499,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "16335448-f50b-5ae7-8e46-8521e3617f84",
+   "title": "Olive Green / L",
+   "price": 1499,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "ecfc00ad-c53e-5008-8bee-9f46b579ba82",
+   "title": "Olive Green / XL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "09fc04d6-ee5f-5d7a-b651-4d90ed348f66",
+   "title": "Olive Green / XXL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "513bc7bf-7c17-505f-81bf-118624fd233f",
+   "variant_id": "61572175-fc81-5f94-8c23-1ebcf91506f7",
+   "title": "Olive Green / XXXL",
+   "price": 1499,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "XXXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f346d21e-8cb5-58b1-ad0f-86be449b0491",
+   "variant_id": "b99ef7a6-9ec2-5f82-9171-fd628a7e1559",
+   "title": "XS",
+   "price": 2499,
+   "option_values": {
+    "Size": "XS"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f346d21e-8cb5-58b1-ad0f-86be449b0491",
+   "variant_id": "f7ec76e9-8dd5-5a79-b165-43d53eab3b42",
+   "title": "S",
+   "price": 2499,
+   "option_values": {
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f346d21e-8cb5-58b1-ad0f-86be449b0491",
+   "variant_id": "97c46478-9fa2-5f31-a548-98937ecc0ac9",
+   "title": "M",
+   "price": 2499,
+   "option_values": {
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f346d21e-8cb5-58b1-ad0f-86be449b0491",
+   "variant_id": "b258946b-41f0-538d-927b-542137348613",
+   "title": "L",
+   "price": 2499,
+   "option_values": {
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f346d21e-8cb5-58b1-ad0f-86be449b0491",
+   "variant_id": "e86fe1b5-1997-5ba3-a830-c06c573bd8db",
+   "title": "XL",
+   "price": 2499,
+   "option_values": {
+    "Size": "XL"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "f346d21e-8cb5-58b1-ad0f-86be449b0491",
+   "variant_id": "6a4f91f7-8fd1-50e2-ac47-b24018fd0a3f",
+   "title": "XXL",
+   "price": 2499,
+   "option_values": {
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "variant_id": "94db0d3d-de11-5dd6-8e54-09572b8dc34f",
+   "title": "S / White",
+   "price": 1499,
+   "option_values": {
+    "Size": "S",
+    "Color": "White"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "variant_id": "c979079c-0d8e-5e77-ae57-b91b244204cd",
+   "title": "M / White",
+   "price": 1499,
+   "option_values": {
+    "Size": "M",
+    "Color": "White"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "variant_id": "e232bda7-3f90-5704-aace-8db062271704",
+   "title": "L / White",
+   "price": 1499,
+   "option_values": {
+    "Size": "L",
+    "Color": "White"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "variant_id": "32558f8f-c2d6-5edd-aff9-433b17a5dcdb",
+   "title": "XL / White",
+   "price": 1499,
+   "option_values": {
+    "Size": "XL",
+    "Color": "White"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "variant_id": "9d02a1c1-1503-58c5-b780-cb1b65875566",
+   "title": "XXL / White",
+   "price": 1499,
+   "option_values": {
+    "Size": "XXL",
+    "Color": "White"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "variant_id": "ed778d5b-593e-57d4-95cc-0c662bb2c264",
+   "title": "3XL / White",
+   "price": 1499,
+   "option_values": {
+    "Size": "3XL",
+    "Color": "White"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "variant_id": "97e34264-1369-5f4d-b251-784a8f5d21d9",
+   "title": "4XL / White",
+   "price": 1499,
+   "option_values": {
+    "Size": "4XL",
+    "Color": "White"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+   "variant_id": "33a95d01-b8a2-5e0a-a790-c295fef21f7f",
+   "title": "5XL / White",
+   "price": 1499,
+   "option_values": {
+    "Size": "5XL",
+    "Color": "White"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "a05f238a-ff60-5503-9461-b804094b7e10",
+   "variant_id": "1153587b-e0d6-5724-aa7f-b1eaa752daaf",
+   "title": "Default Title",
+   "price": 1089,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "7e4b1e18-bc57-5e9f-adac-25228d1763a9",
+   "variant_id": "5fccb91e-8fed-5b1c-94e0-aa2e74ffd731",
+   "title": "XS",
+   "price": 1299,
+   "option_values": {
+    "Size": "XS"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7e4b1e18-bc57-5e9f-adac-25228d1763a9",
+   "variant_id": "173a2012-235c-523a-9905-65468d15089a",
+   "title": "S",
+   "price": 1299,
+   "option_values": {
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7e4b1e18-bc57-5e9f-adac-25228d1763a9",
+   "variant_id": "f4cdae60-88d9-52c1-853f-04533105d9a5",
+   "title": "M",
+   "price": 1299,
+   "option_values": {
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7e4b1e18-bc57-5e9f-adac-25228d1763a9",
+   "variant_id": "5b0054e9-6669-5b39-9c0d-2f98fb00118c",
+   "title": "L",
+   "price": 1299,
+   "option_values": {
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7e4b1e18-bc57-5e9f-adac-25228d1763a9",
+   "variant_id": "003d4d92-113e-5b11-8f09-d1f3646e9957",
+   "title": "XL",
+   "price": 1299,
+   "option_values": {
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7e4b1e18-bc57-5e9f-adac-25228d1763a9",
+   "variant_id": "d1654e0e-f3ce-5ea2-94d1-6bcc2422b9e4",
+   "title": "XXL",
+   "price": 1299,
+   "option_values": {
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "826456aa-cc98-505a-9b29-3c59162e3351",
+   "variant_id": "16f93ee1-f748-5fd8-b4df-92de7f207b9a",
+   "title": "XS",
+   "price": 2499,
+   "option_values": {
+    "Size": "XS"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "826456aa-cc98-505a-9b29-3c59162e3351",
+   "variant_id": "de69d74b-c977-5982-958b-e967cbddcac7",
+   "title": "S",
+   "price": 2499,
+   "option_values": {
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "826456aa-cc98-505a-9b29-3c59162e3351",
+   "variant_id": "2e8aa505-0391-5af6-812d-179366b17da8",
+   "title": "M",
+   "price": 2499,
+   "option_values": {
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "826456aa-cc98-505a-9b29-3c59162e3351",
+   "variant_id": "215da7b8-8d4f-5793-ac12-858b2deb091e",
+   "title": "L",
+   "price": 2499,
+   "option_values": {
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "826456aa-cc98-505a-9b29-3c59162e3351",
+   "variant_id": "6993a504-9007-5df1-aeb1-034c93486e93",
+   "title": "XL",
+   "price": 2499,
+   "option_values": {
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "826456aa-cc98-505a-9b29-3c59162e3351",
+   "variant_id": "b4d1791c-b320-595c-ad13-37ee0ad1eca2",
+   "title": "XXL",
+   "price": 2499,
+   "option_values": {
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7f4adde7-378d-5bca-bcb8-56538fe0ab61",
+   "variant_id": "6003d5fc-920b-5c46-be5d-538753dd22fd",
+   "title": "XS",
+   "price": 2499,
+   "option_values": {
+    "Size": "XS"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7f4adde7-378d-5bca-bcb8-56538fe0ab61",
+   "variant_id": "6e972280-3aa4-525d-8a78-931052153e4c",
+   "title": "S",
+   "price": 2499,
+   "option_values": {
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7f4adde7-378d-5bca-bcb8-56538fe0ab61",
+   "variant_id": "28a3d189-0498-5fec-9bfc-b231c64d6261",
+   "title": "M",
+   "price": 2499,
+   "option_values": {
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7f4adde7-378d-5bca-bcb8-56538fe0ab61",
+   "variant_id": "761808f8-3efd-5233-a429-3ebe25096e70",
+   "title": "L",
+   "price": 2499,
+   "option_values": {
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7f4adde7-378d-5bca-bcb8-56538fe0ab61",
+   "variant_id": "10185a97-b7aa-5a8b-9bf2-21ac831cf064",
+   "title": "XL",
+   "price": 2499,
+   "option_values": {
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "7f4adde7-378d-5bca-bcb8-56538fe0ab61",
+   "variant_id": "18496870-97ed-593c-83f0-4d8f114426c4",
+   "title": "XXL",
+   "price": 2499,
+   "option_values": {
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "751a76cd-ff9f-599b-96e8-9dfc6dd9c205",
+   "variant_id": "75e44130-f9d8-577c-9392-978ad8aafba3",
+   "title": "XS",
+   "price": 4500,
+   "option_values": {
+    "Size": "XS"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "751a76cd-ff9f-599b-96e8-9dfc6dd9c205",
+   "variant_id": "3139c0d2-c97e-5b3f-a058-cf8da4237680",
+   "title": "S",
+   "price": 4500,
+   "option_values": {
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "751a76cd-ff9f-599b-96e8-9dfc6dd9c205",
+   "variant_id": "f7807e2b-e69c-5999-9068-524aec69784d",
+   "title": "M",
+   "price": 4500,
+   "option_values": {
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "751a76cd-ff9f-599b-96e8-9dfc6dd9c205",
+   "variant_id": "c17148fb-2a8e-5b84-88fb-4e37d8e14f63",
+   "title": "L",
+   "price": 4500,
+   "option_values": {
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "751a76cd-ff9f-599b-96e8-9dfc6dd9c205",
+   "variant_id": "e6b1dcf1-1b1f-5c51-b23a-a9037989b884",
+   "title": "XL",
+   "price": 4500,
+   "option_values": {
+    "Size": "XL"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "751a76cd-ff9f-599b-96e8-9dfc6dd9c205",
+   "variant_id": "d9511bce-2639-561d-8bd9-f8132b97b344",
+   "title": "XXL",
+   "price": 4500,
+   "option_values": {
+    "Size": "XXL"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "variant_id": "b55a2ded-bf95-55b8-84f2-6dd9f7ee7aec",
+   "title": "S / Cream",
+   "price": 1299,
+   "option_values": {
+    "Size": "S",
+    "Color": "Cream"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "variant_id": "c335025a-4eeb-510f-b040-27a2f24e8b68",
+   "title": "M / Cream",
+   "price": 1299,
+   "option_values": {
+    "Size": "M",
+    "Color": "Cream"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "variant_id": "f35a42aa-6857-54d4-9549-c0c68a1e21c5",
+   "title": "L / Cream",
+   "price": 1299,
+   "option_values": {
+    "Size": "L",
+    "Color": "Cream"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "variant_id": "e48f4054-ffb1-58b9-8f2e-d9afd510cd5b",
+   "title": "XL / Cream",
+   "price": 1299,
+   "option_values": {
+    "Size": "XL",
+    "Color": "Cream"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "variant_id": "80b3bf91-f7c3-5d31-9bee-5126d9607b38",
+   "title": "XXL / Cream",
+   "price": 1299,
+   "option_values": {
+    "Size": "XXL",
+    "Color": "Cream"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "variant_id": "9efe4d81-6424-5adb-8e8a-81aa64af0788",
+   "title": "3XL / Cream",
+   "price": 1299,
+   "option_values": {
+    "Size": "3XL",
+    "Color": "Cream"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "variant_id": "8b108953-97b4-5ba5-a524-ddd3c42d3ca3",
+   "title": "4XL / Cream",
+   "price": 1299,
+   "option_values": {
+    "Size": "4XL",
+    "Color": "Cream"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+   "variant_id": "a6957955-9348-5172-89c8-0b861e59d607",
+   "title": "5XL / Cream",
+   "price": 1299,
+   "option_values": {
+    "Size": "5XL",
+    "Color": "Cream"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "variant_id": "9a4f5e13-2974-5224-a627-232a313630fc",
+   "title": "S / Black",
+   "price": 1099,
+   "option_values": {
+    "Size": "S",
+    "Color": "Black"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "variant_id": "f3d3a7c0-c36c-5d00-918e-e1027618003f",
+   "title": "M / Black",
+   "price": 1099,
+   "option_values": {
+    "Size": "M",
+    "Color": "Black"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "variant_id": "9f200616-8610-5bb0-9a86-eff913f0c9e5",
+   "title": "L / Black",
+   "price": 1099,
+   "option_values": {
+    "Size": "L",
+    "Color": "Black"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "variant_id": "881dcb5d-8aa3-5c8a-b6c5-d36759b8dbed",
+   "title": "XL / Black",
+   "price": 1099,
+   "option_values": {
+    "Size": "XL",
+    "Color": "Black"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "variant_id": "c311e81e-628f-5a79-b663-da4b2d3d9a07",
+   "title": "XXL / Black",
+   "price": 1099,
+   "option_values": {
+    "Size": "XXL",
+    "Color": "Black"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "variant_id": "59ea4f97-d8a8-5ac9-81e1-b79de1baad22",
+   "title": "3XL / Black",
+   "price": 1099,
+   "option_values": {
+    "Size": "3XL",
+    "Color": "Black"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "variant_id": "35998c96-1293-5c7a-aa07-891ad1165758",
+   "title": "4XL / Black",
+   "price": 1099,
+   "option_values": {
+    "Size": "4XL",
+    "Color": "Black"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "27382528-eb23-5843-8136-d1e89022c76d",
+   "variant_id": "db08550a-13e8-5516-b7cf-098eaf107dec",
+   "title": "5XL / Black",
+   "price": 1099,
+   "option_values": {
+    "Size": "5XL",
+    "Color": "Black"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "d1261a37-3213-5111-87a8-3aaed1d80b31",
+   "title": "Oatmeal / S",
+   "price": 1799,
+   "option_values": {
+    "Color": "Oatmeal",
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "132c79ff-997b-572f-9788-d8e69c931c62",
+   "title": "Oatmeal / M",
+   "price": 1799,
+   "option_values": {
+    "Color": "Oatmeal",
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "b8e1579d-65c9-589c-8005-385008b85450",
+   "title": "Oatmeal / L",
+   "price": 1799,
+   "option_values": {
+    "Color": "Oatmeal",
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "3d292699-d64e-5acb-ac2b-c79dea28be9b",
+   "title": "Oatmeal / XL",
+   "price": 1799,
+   "option_values": {
+    "Color": "Oatmeal",
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "8420d2b2-3fc2-505b-ae5b-6387249f18b8",
+   "title": "Oatmeal / XXL",
+   "price": 1799,
+   "option_values": {
+    "Color": "Oatmeal",
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "eb20dc5a-1467-575c-9b65-02887b2300db",
+   "title": "Oatmeal / XXXL",
+   "price": 1799,
+   "option_values": {
+    "Color": "Oatmeal",
+    "Size": "XXXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "a4a57015-0dac-5b56-b518-6af5f1915180",
+   "title": "Olive Green / S",
+   "price": 1799,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "a6204c58-debc-5ce5-a81d-c200ca0882d9",
+   "title": "Olive Green / M",
+   "price": 1799,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "66705eb3-ca03-5ad9-ba4c-f91eee26526c",
+   "title": "Olive Green / L",
+   "price": 1799,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "5372f7b1-1061-543d-87fb-f10081341ae8",
+   "title": "Olive Green / XL",
+   "price": 1799,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "0f7a2357-d59f-5b81-8975-d4e3bac311f2",
+   "title": "Olive Green / XXL",
+   "price": 1799,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ed9d88b8-7743-5cac-8c87-c923e5ba7584",
+   "variant_id": "45b70750-5942-5b78-b3a7-3527af3e6e5f",
+   "title": "Olive Green / XXXL",
+   "price": 1799,
+   "option_values": {
+    "Color": "Olive Green",
+    "Size": "XXXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d97634dd-f169-5936-833f-26acb1e8ba57",
+   "variant_id": "1875d4c8-03b8-555c-a34d-aa5311fbbddf",
+   "title": "XS",
+   "price": 1299,
+   "option_values": {
+    "Size": "XS"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d97634dd-f169-5936-833f-26acb1e8ba57",
+   "variant_id": "48b21402-3be9-5153-8a55-610aad1052ee",
+   "title": "S",
+   "price": 1299,
+   "option_values": {
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d97634dd-f169-5936-833f-26acb1e8ba57",
+   "variant_id": "4cbad571-3a34-5ae4-8ee2-f23c08dcc7cb",
+   "title": "M",
+   "price": 1299,
+   "option_values": {
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d97634dd-f169-5936-833f-26acb1e8ba57",
+   "variant_id": "6b348b68-1b71-55ed-91e2-1cec4870c6e7",
+   "title": "L",
+   "price": 1299,
+   "option_values": {
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d97634dd-f169-5936-833f-26acb1e8ba57",
+   "variant_id": "76549883-a764-5ec7-b77c-ea685867d52d",
+   "title": "XL",
+   "price": 1299,
+   "option_values": {
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d97634dd-f169-5936-833f-26acb1e8ba57",
+   "variant_id": "9dd94d6f-7f6c-5367-94a2-1fe83a21775b",
+   "title": "XXL",
+   "price": 1299,
+   "option_values": {
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8ec17cff-0c55-5ab0-9b84-f5465490c641",
+   "variant_id": "420cd435-4bf8-52ad-87f4-764785ba6108",
+   "title": "XS",
+   "price": 500,
+   "option_values": {
+    "Size": "XS"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8ec17cff-0c55-5ab0-9b84-f5465490c641",
+   "variant_id": "db1aff85-c1ae-5496-ae41-041fdb2a2bfe",
+   "title": "S",
+   "price": 500,
+   "option_values": {
+    "Size": "S"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8ec17cff-0c55-5ab0-9b84-f5465490c641",
+   "variant_id": "0f5931e0-08d8-552e-87a1-142ff98e5cfd",
+   "title": "M",
+   "price": 500,
+   "option_values": {
+    "Size": "M"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8ec17cff-0c55-5ab0-9b84-f5465490c641",
+   "variant_id": "2dbcc748-e2a5-5e85-9417-4c8c517b17a3",
+   "title": "L",
+   "price": 500,
+   "option_values": {
+    "Size": "L"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8ec17cff-0c55-5ab0-9b84-f5465490c641",
+   "variant_id": "7d28c1c0-6010-5053-9309-24bab6a0a347",
+   "title": "XL",
+   "price": 500,
+   "option_values": {
+    "Size": "XL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8ec17cff-0c55-5ab0-9b84-f5465490c641",
+   "variant_id": "cd5fd7e5-26a2-551d-96c8-23681da78e96",
+   "title": "XXL",
+   "price": 500,
+   "option_values": {
+    "Size": "XXL"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "6b3bfd2e-83c8-566b-882f-1d97dd9121b8",
+   "variant_id": "ba7e92b8-fd16-5736-ac0c-f1074cec4ac5",
+   "title": "Default Title",
+   "price": 749,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "b9134865-8f8f-5f77-bb25-a461219d5359",
+   "variant_id": "da76b161-8d6f-546b-9e90-cff681a5a40d",
+   "title": "Default Title",
+   "price": 599,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "556a5c86-b5f5-5437-b875-970a5aadd6f9",
+   "variant_id": "562ea1b0-4eab-5b59-ada5-64421a73d994",
+   "title": "Default Title",
+   "price": 1089,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "d9913461-b3a9-5138-8dca-9def7e31e284",
+   "variant_id": "36ba7091-d4ef-5aca-a01b-2c0cb8f34833",
+   "title": "Default Title",
+   "price": 1500,
+   "option_values": null,
+   "is_buyable": true
+  }
+ ],
+ "collections": [
+  {
+   "collection_id": "36484830-ba2d-5e7b-aa90-c7b0d64d1170",
+   "name": "{first's} picks",
+   "slug": "picks",
+   "description": "The pieces {first} keeps reaching for. Sample picks for this preview.",
+   "cover_url": null,
+   "on_home": true,
+   "sort_order": 0,
+   "product_ids": [
+    "ad9e2423-dcde-5b92-9e00-5706c682ab3f",
+    "e2525a61-66d5-5a00-a71e-9797843ebc41",
+    "513bc7bf-7c17-505f-81bf-118624fd233f",
+    "f346d21e-8cb5-58b1-ad0f-86be449b0491",
+    "24c489f9-d62c-5e5b-bb37-30a55a342a80",
+    "a05f238a-ff60-5503-9461-b804094b7e10",
+    "7e4b1e18-bc57-5e9f-adac-25228d1763a9"
+   ]
+  },
+  {
+   "collection_id": "f825aaa6-3784-552b-bd6a-8626be2a0295",
+   "name": "Festive and ethnic",
+   "slug": "ethnic",
+   "description": "Co-ords, kurtas and dresses for pujas, weddings and long lunches.",
+   "cover_url": null,
+   "on_home": true,
+   "sort_order": 1,
+   "product_ids": [
+    "826456aa-cc98-505a-9b29-3c59162e3351",
+    "6a4e3235-f0cd-5df9-a4df-6f95cd00395b",
+    "7f4adde7-378d-5bca-bcb8-56538fe0ab61",
+    "27382528-eb23-5843-8136-d1e89022c76d",
+    "751a76cd-ff9f-599b-96e8-9dfc6dd9c205",
+    "f346d21e-8cb5-58b1-ad0f-86be449b0491"
+   ]
+  },
+  {
+   "collection_id": "bb073c94-1bc6-5ddf-acb0-a25e2166f706",
+   "name": "Finishing touches",
+   "slug": "accessories",
+   "description": "Caps and jewellery to finish a look.",
+   "cover_url": null,
+   "on_home": true,
+   "sort_order": 2,
+   "product_ids": [
+    "6b3bfd2e-83c8-566b-882f-1d97dd9121b8",
+    "556a5c86-b5f5-5437-b875-970a5aadd6f9",
+    "b9134865-8f8f-5f77-bb25-a461219d5359",
+    "d9913461-b3a9-5138-8dca-9def7e31e284",
+    "a05f238a-ff60-5503-9461-b804094b7e10"
+   ]
+  }
+ ],
+ "details": {
+  "ad9e2423-dcde-5b92-9e00-5706c682ab3f": {
+   "product": {
+    "description": "A pink tube dress in a Tencel and cotton blend.",
+    "video_url": null,
+    "materials": "55% Tencel, 45% cotton. 125 GSM.",
+    "care_instructions": "Machine wash cold with similar colours. Non-chlorine bleach only.",
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says how to style it, and what to wear it with."
+   },
+   "seller": {
+    "legal_name": "Bonkers Corner",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "India",
+    "lm_consumer_care": "info@bonkerscorner.com, 086340 18989"
+   }
+  },
+  "e2525a61-66d5-5a00-a71e-9797843ebc41": {
+   "product": {
+    "description": "Relaxed baggy denim with a vintage wash.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Powerlook Apparels Pvt. Ltd.",
+    "address": "Lotus Corporate Park, Wing G02 - 1502, Ram Mandir Lane, off Western Express Highway, Goregaon, Mumbai 400063",
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "support@powerlook.in, +91 96963 33000"
+   }
+  },
+  "513bc7bf-7c17-505f-81bf-118624fd233f": {
+   "product": {
+    "description": "A regular-fit zip-up hoodie with an adjustable drawcord hood and a front kangaroo pocket.",
+    "video_url": null,
+    "materials": "60% cotton, 40% polyester fleece. 280 GSM.",
+    "care_instructions": "Machine wash, as the care label says.",
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says how to style it, and what to wear it with."
+   },
+   "seller": {
+    "legal_name": "Pratyaya E-commerce Pvt. Ltd.",
+    "address": null,
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "+91 91215 14031 (WhatsApp)"
+   }
+  },
+  "f346d21e-8cb5-58b1-ad0f-86be449b0491": {
+   "product": {
+    "description": "A mustard and white cotton co-ord: a relaxed kurta with a V-neckline and three-quarter sleeves, and white pants with matching embroidery.",
+    "video_url": null,
+    "materials": "Cotton.",
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Bunai Pvt. Ltd.",
+    "address": "RIICO Industrial Area, Sitapura, Jaipur, Rajasthan 302022",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "1 set (kurta and pants)",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "orders@bunai.com, +91 88001 74972"
+   }
+  },
+  "24c489f9-d62c-5e5b-bb37-30a55a342a80": {
+   "product": {
+    "description": "A full-sleeve polo with embroidery across a clean construction.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Powerlook Apparels Pvt. Ltd.",
+    "address": "Lotus Corporate Park, Wing G02 - 1502, Ram Mandir Lane, off Western Express Highway, Goregaon, Mumbai 400063",
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "support@powerlook.in, +91 96963 33000"
+   }
+  },
+  "a05f238a-ff60-5503-9461-b804094b7e10": {
+   "product": {
+    "description": "A bright orange baseball cap with white Salty embroidery across the front and a curved brim.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Salty Accessories",
+    "address": "Spacetime, 1st Floor, Okhla NSIC, New Delhi 110020",
+    "state_code": "DL"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "queries@salty.co.in, +91 92895 47575"
+   }
+  },
+  "7e4b1e18-bc57-5e9f-adac-25228d1763a9": {
+   "product": {
+    "description": "A black shirt in a soft modal blend.",
+    "video_url": null,
+    "materials": "95% modal, 5% spandex. 220 GSM.",
+    "care_instructions": "Machine wash cold with similar colours. Non-chlorine bleach only.",
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Bonkers Corner",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "India",
+    "lm_consumer_care": "info@bonkerscorner.com, 086340 18989"
+   }
+  },
+  "826456aa-cc98-505a-9b29-3c59162e3351": {
+   "product": {
+    "description": "A white cotton co-ord: a relaxed shirt with orange placket details and an embroidered orange pocket, and solid white pants.",
+    "video_url": null,
+    "materials": "Cotton.",
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Bunai Pvt. Ltd.",
+    "address": "RIICO Industrial Area, Sitapura, Jaipur, Rajasthan 302022",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "1 set (shirt and pants)",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "orders@bunai.com, +91 88001 74972"
+   }
+  },
+  "7f4adde7-378d-5bca-bcb8-56538fe0ab61": {
+   "product": {
+    "description": "A sleeveless mustard cotton co-ord: a collared kurta with a button-down placket and high-low hem, and matching pants.",
+    "video_url": null,
+    "materials": "Cotton.",
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Bunai Pvt. Ltd.",
+    "address": "RIICO Industrial Area, Sitapura, Jaipur, Rajasthan 302022",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "1 set (kurta and pants)",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "orders@bunai.com, +91 88001 74972"
+   }
+  },
+  "751a76cd-ff9f-599b-96e8-9dfc6dd9c205": {
+   "product": {
+    "description": "A pink cotton dress with a pleated sweetheart neckline, a cinched waist and a frilled, tiered skirt.",
+    "video_url": null,
+    "materials": "Cotton.",
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Bunai Pvt. Ltd.",
+    "address": "RIICO Industrial Area, Sitapura, Jaipur, Rajasthan 302022",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "orders@bunai.com, +91 88001 74972"
+   }
+  },
+  "6a4e3235-f0cd-5df9-a4df-6f95cd00395b": {
+   "product": {
+    "description": "A full-sleeve kurta with embroidery across a natural base.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says how to style it, and what to wear it with."
+   },
+   "seller": {
+    "legal_name": "Powerlook Apparels Pvt. Ltd.",
+    "address": "Lotus Corporate Park, Wing G02 - 1502, Ram Mandir Lane, off Western Express Highway, Goregaon, Mumbai 400063",
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "support@powerlook.in, +91 96963 33000"
+   }
+  },
+  "27382528-eb23-5843-8136-d1e89022c76d": {
+   "product": {
+    "description": "A full-sleeve kurta shirt in linen.",
+    "video_url": null,
+    "materials": "Linen.",
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Powerlook Apparels Pvt. Ltd.",
+    "address": "Lotus Corporate Park, Wing G02 - 1502, Ram Mandir Lane, off Western Express Highway, Goregaon, Mumbai 400063",
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "support@powerlook.in, +91 96963 33000"
+   }
+  },
+  "ed9d88b8-7743-5cac-8c87-c923e5ba7584": {
+   "product": {
+    "description": "Travel joggers in a fabric treated to repel spills, dirt and unexpected weather.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Pratyaya E-commerce Pvt. Ltd.",
+    "address": null,
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "+91 91215 14031 (WhatsApp)"
+   }
+  },
+  "d97634dd-f169-5936-833f-26acb1e8ba57": {
+   "product": {
+    "description": "A grey shirt in a soft modal blend.",
+    "video_url": null,
+    "materials": "95% modal, 5% spandex. 120 GSM.",
+    "care_instructions": "Machine wash cold with similar colours. Non-chlorine bleach only.",
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Bonkers Corner",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "India",
+    "lm_consumer_care": "info@bonkerscorner.com, 086340 18989"
+   }
+  },
+  "8ec17cff-0c55-5ab0-9b84-f5465490c641": {
+   "product": {
+    "description": "A black cotton top from the Bratz co-ord set.",
+    "video_url": null,
+    "materials": "95% cotton, 5% spandex. 210 GSM.",
+    "care_instructions": "Machine wash cold with similar colours. Non-chlorine bleach only.",
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Bonkers Corner",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "India",
+    "lm_consumer_care": "info@bonkerscorner.com, 086340 18989"
+   }
+  },
+  "6b3bfd2e-83c8-566b-882f-1d97dd9121b8": {
+   "product": {
+    "description": "A necklace and a pair of earrings, made to be worn together.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says how to style it, and what to wear it with."
+   },
+   "seller": {
+    "legal_name": "Salty Accessories",
+    "address": "Spacetime, 1st Floor, Okhla NSIC, New Delhi 110020",
+    "state_code": "DL"
+   },
+   "rules": {
+    "lm_net_quantity": "1 set (necklace and earrings)",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "queries@salty.co.in, +91 92895 47575"
+   }
+  },
+  "b9134865-8f8f-5f77-bb25-a461219d5359": {
+   "product": {
+    "description": "A pair of earrings and a bracelet, made to be worn together.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Salty Accessories",
+    "address": "Spacetime, 1st Floor, Okhla NSIC, New Delhi 110020",
+    "state_code": "DL"
+   },
+   "rules": {
+    "lm_net_quantity": "1 set (earrings and bracelet)",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "queries@salty.co.in, +91 92895 47575"
+   }
+  },
+  "556a5c86-b5f5-5437-b875-970a5aadd6f9": {
+   "product": {
+    "description": "An orange baseball cap with an embroidered black cat and a curved brim.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Salty Accessories",
+    "address": "Spacetime, 1st Floor, Okhla NSIC, New Delhi 110020",
+    "state_code": "DL"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "queries@salty.co.in, +91 92895 47575"
+   }
+  },
+  "d9913461-b3a9-5138-8dca-9def7e31e284": {
+   "product": {
+    "description": "Urban Monkey's frontrunner baseball cap.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Urban Monkey",
+    "address": "1st Floor, H No. 854, Gala No. 129-130, Bldg No. F-5, Bhumi World Industrial Park, Pimplas Village, Bhiwandi, Thane, Maharashtra 421302",
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 N",
+    "lm_manufacturer": "As printed on the label",
+    "lm_country_of_origin": "As printed on the label",
+    "lm_consumer_care": "hello@urbanmonkey.com, +91 99676 30898"
+   }
+  }
+ }
+}

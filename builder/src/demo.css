@@ -1,0 +1,8 @@
+/* The demo's own line across the top of each shop. */
+.demo-bar a {
+  color: inherit;
+  font-weight: 750;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  white-space: nowrap;
+}

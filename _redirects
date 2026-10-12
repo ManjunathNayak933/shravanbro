@@ -1,0 +1,7 @@
+/all                              /health/all                 301
+/brands                           /health/brands              301
+/collections/shravan-diet         /health/collections/diet    301
+/collections/munch-with-shravan   /health/collections/munch   301
+/c/*                              /health/c/:splat            301
+/p/*                              /health/p/:splat            301
+/brand/*                          /health/brand/:splat        301
