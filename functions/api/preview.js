@@ -123,8 +123,8 @@ async function onRequestPost(context) {
   }
   const opened = openedOf(fields);
   if (opened === null) return answer(400);
-  const token = env.TELEGRAM_BOT_TOKEN?.trim() ?? "";
-  const chat = env.TELEGRAM_CHAT_ID?.trim() ?? "";
+  const token = (env.TELEGRAM_BOT_TOKEN ?? "").replace(/\s+/g, "");
+  const chat = (env.TELEGRAM_CHAT_ID ?? "").replace(/\s+/g, "");
   if (token === "" || chat === "") return answer(204);
   const address = request.headers.get("cf-connecting-ip") ?? "unknown";
   const verdict = admitted(address, JSON.stringify([opened.store, opened.theme, opened.name, opened.handle]), Date.now());
