@@ -74,7 +74,9 @@ function Start({ shops }: { shops: StartShop[] }) {
                 aria-describedby="kd-ig-hint kd-ig-problem"
               />
             </div>
-            <p className="kd-hint" id="kd-ig-hint">Your shop links to it.</p>
+            <p className="kd-hint" id="kd-ig-hint">
+              Your shop links to it. Opening your shop shares your name and this ID with the Kubal team.
+            </p>
             <p className="kd-problem" id="kd-ig-problem" hidden />
           </div>
 
@@ -144,8 +146,9 @@ function Start({ shops }: { shops: StartShop[] }) {
 
       <footer className="kd-foot">
         <p>
-          What you type stays in this browser. Products, prices and photos come from each brand&apos;s own
-          store, as of October 2026, and no brand has endorsed these previews.
+          Opening your shop shares your name, Instagram ID and the shop and theme you pick with the Kubal
+          team. Nothing else you do here leaves this browser. Products, prices and photos come from each
+          brand&apos;s own store, as of October 2026, and no brand has endorsed these previews.
         </p>
       </footer>
     </div>
