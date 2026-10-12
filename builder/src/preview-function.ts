@@ -136,8 +136,10 @@ export async function onRequestPost(context: Context): Promise<Response> {
   const opened = openedOf(fields);
   if (opened === null) return answer(400);
 
-  const token = env.TELEGRAM_BOT_TOKEN?.trim() ?? '';
-  const chat = env.TELEGRAM_CHAT_ID?.trim() ?? '';
+  // Neither ever has a space in it, but one copied off a wrapped line can, and
+  // Telegram then answers Not Found to everything.
+  const token = (env.TELEGRAM_BOT_TOKEN ?? '').replace(/\s+/g, '');
+  const chat = (env.TELEGRAM_CHAT_ID ?? '').replace(/\s+/g, '');
   if (token === '' || chat === '') return answer(204);
 
   const address = request.headers.get('cf-connecting-ip') ?? 'unknown';

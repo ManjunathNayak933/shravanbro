@@ -91,8 +91,9 @@ from one address. The worst a stranger can do is put messages in your chat. If
 that ever happens, a Cloudflare rate limiting rule on `/api/preview` stops it
 outright. If messages don't arrive, open the latest deployment in Cloudflare,
 start **Functions → Real-time logs**, and open a shop: the log shows Telegram's
-answer. `Unauthorized` is the token, and `chat not found` is the chat ID or a
-bot nobody has pressed Start on.
+answer. `Unauthorized` or `Not Found` is the token (copy it by tapping it in
+BotFather's message), and `chat not found` is the chat ID or a bot nobody has
+pressed Start on. Spaces in either variable are ignored.
 
 ## Every design is one Kubal can build
 
