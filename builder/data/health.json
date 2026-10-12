@@ -1,0 +1,1371 @@
+{
+ "key": "health",
+ "meta": {
+  "label": "Health",
+  "blurb": "Protein, supplements and healthy snacks",
+  "title": "Fit World",
+  "description": "A Kubal demo shop for protein, supplements and healthy snacks, from the brands that make them."
+ },
+ "shop": {
+  "storefront_id": "f6651ae8-506b-5b14-b39a-9e02f6c3e268",
+  "store_name": "{first's} Fit World",
+  "logo_url": null,
+  "favicon_url": null,
+  "theme_color": "#ffc400",
+  "contact_email": "admin@kubal.online",
+  "contact_phone": null,
+  "contact_social": "{instagram}",
+  "subdomain": "fitworld",
+  "look": "pop",
+  "surface": null,
+  "heading_face": "condensed",
+  "corners": null,
+  "card_style": null,
+  "photo_shape": null,
+  "header_style": null,
+  "collection_style": null,
+  "hero_style": "type",
+  "tagline": "Fuel for every day: protein, supplements and healthy snacks.",
+  "bio": "{name's} shop for protein, supplements and healthy snacks. Every product ships from the brand that makes it, and you check out on their own site.",
+  "announcement": "Concept preview by Kubal. Not a live shop, and {first} hasn't endorsed these products.",
+  "cover_url": null,
+  "avatar_url": null,
+  "share_image_url": null,
+  "social_links": [
+   "{instagram}"
+  ],
+  "home_sections": [
+   "collection_rows",
+   "brands",
+   "deals"
+  ],
+  "words": {
+   "creator_note_title": "{first's} note",
+   "search_placeholder": "Search {first's} Fit World"
+  }
+ },
+ "products": [
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "title": "AS-IT-IS ATOM Whey Protein XL | 27g Protein per Serving | DigeZyme® Enzymes & 1 Billion CFU Probiotics",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_Whey_Protein_With_Yeast_1kg_Double_Rich_Chocolate_Product_front_image.jpg?v=1780119997",
+    "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_Whey_Protein_With_Yeast_1kg_Choco_Hazel_Fusion_Product_front_image_60f5b9dc-659e-4962-aad5-f130d17029de.jpg?v=1780120173",
+    "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_WHEY_PROTEIN_XL_2KG_COMMON_POCUH_DRC_PRODUCT_FRONT_IMAGE.jpg?v=1780562573"
+   ],
+   "brand_id": "e885865f-fc47-5c1d-9866-958de4723dd8",
+   "seller_name": "AS-IT-IS Nutrition",
+   "tags": [
+    "Whey protein"
+   ],
+   "price_from": 2471,
+   "mrp": 3861,
+   "discount_pct": 36,
+   "sort_order": 0,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "8fa05847-62ae-50a2-a764-8976a5b73a3e",
+   "title": "AS-IT-IS ATOM NXT Yeast Protein | 31g Protein per Serving | 2.8g Leucine | DigeZyme® Enzymes & 1 Billion CFU Probiotics",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_NXT_Protein_500g_Cafe_Product_Front_Image_ad6e6e4a-5461-4366-b525-58d664f46418.jpg?v=1786078298",
+    "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_NXT_Protein_500g_DRC_Product_Front_Image.jpg?v=1786079420",
+    "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_NXT_Protein_500g_Kesar_Kulfi_Product_Front_Image.jpg?v=1786078542"
+   ],
+   "brand_id": "e885865f-fc47-5c1d-9866-958de4723dd8",
+   "seller_name": "AS-IT-IS Nutrition",
+   "tags": [
+    "Yeast protein"
+   ],
+   "price_from": 1099,
+   "mrp": 1715,
+   "discount_pct": 36,
+   "sort_order": 4,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "acf822c5-7bf5-5783-9c60-788845b3a6a6",
+   "title": "AS-IT-IS ONE Whey Protein Concentrate Travel Pack | 28g Protein per Serving | Unflavoured",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ONEWPCP06RPD1.jpg?v=1783320484",
+    "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ONEWPCP06RPD2.jpg?v=1783320484"
+   ],
+   "brand_id": "e885865f-fc47-5c1d-9866-958de4723dd8",
+   "seller_name": "AS-IT-IS Nutrition",
+   "tags": [
+    "Whey protein"
+   ],
+   "price_from": 699,
+   "mrp": 1093,
+   "discount_pct": 36,
+   "sort_order": 7,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "bdfa746d-2746-5a2d-88d6-b27d3f1b6bbb",
+   "title": "Yeast Protein - Rich Chocolate - 1kg",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/1_4610c68b-1128-4717-b46e-735c4002fdab.png?v=1790173914",
+    "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/4_ca5492cd-3edf-4f1a-9118-32633de7c665.png?v=1790173914",
+    "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/5_2eac1d33-b5c8-4ca6-92f7-36803b4a8d5d.png?v=1790173915"
+   ],
+   "brand_id": "12f821cf-5c71-56d1-b278-e486d5d37dc0",
+   "seller_name": "Fast&Up",
+   "tags": [
+    "Yeast protein"
+   ],
+   "price_from": 2249,
+   "mrp": 2499,
+   "discount_pct": 10,
+   "sort_order": 2,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "a5226b10-e30b-52f2-807e-c94bfc0723b0",
+   "title": "Plant Protein Cookies & Cream 1kg + Free Spillproof Shaker",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/1kgCookies_Cream_FREEShaker_5d4c06e7-b591-4118-8764-e1969c2d0cdc.png?v=1786690142",
+    "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/3_c65d393a-44a3-4bd3-a9ea-5e21de9f3d7e.jpg?v=1786690142"
+   ],
+   "brand_id": "12f821cf-5c71-56d1-b278-e486d5d37dc0",
+   "seller_name": "Fast&Up",
+   "tags": [
+    "Plant protein"
+   ],
+   "price_from": 1999,
+   "mrp": 3115,
+   "discount_pct": 36,
+   "sort_order": 6,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "785bfe8a-c4bf-5e73-8dbe-4441fb70d6e3",
+   "title": "Creatine Monohydrate 112g - Zesty Lemon",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/Creatine_Lemon_FOP_D2C_1.jpg?v=1778584576",
+    "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/Creatine_Lemon_RS.jpg?v=1773143489"
+   ],
+   "brand_id": "d44c59d5-e29d-5026-842f-78a9c0193826",
+   "seller_name": "SuperYou",
+   "tags": [
+    "Creatine"
+   ],
+   "price_from": 299,
+   "mrp": 599,
+   "discount_pct": 50,
+   "sort_order": 1,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "979fa54b-ed61-5a5c-8fc8-513dc9ffecbe",
+   "title": "Kesar Badam Fermented Yeast Protein - 1Kg Jar",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/1kg_KesarBadam_JarFOPTrustified.jpg?v=1781767524",
+    "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/ReallamondFlakes.jpg?v=1781767524"
+   ],
+   "brand_id": "d44c59d5-e29d-5026-842f-78a9c0193826",
+   "seller_name": "SuperYou",
+   "tags": [
+    "Yeast protein"
+   ],
+   "price_from": 2499,
+   "mrp": 2899,
+   "discount_pct": 14,
+   "sort_order": 5,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "0b685002-6866-5ccb-929b-bfa91fd3490e",
+   "title": "Chocolate - Pack of 8 Sachets",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/Chocolate_36g_Mono_FOP_copy.jpg?v=1790149631",
+    "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/3_099d8242-afd9-493d-ae68-d2f64c8b1679.jpg?v=1773660101"
+   ],
+   "brand_id": "d44c59d5-e29d-5026-842f-78a9c0193826",
+   "seller_name": "SuperYou",
+   "tags": [
+    "Yeast protein"
+   ],
+   "price_from": 799,
+   "mrp": 999,
+   "discount_pct": 20,
+   "sort_order": 8,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "5d30f59a-81ea-55df-8404-2fbc66d08662",
+   "title": "Ultimate Whey Isolate with Fermented Yeast Protein - Chocolate - 500gm",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/whey-isolate-yeast-protein-chocolate-flavour-pack.jpg?v=1784804941",
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-chocolate-whey-isolate-yeast-blend.jpg?v=1787824478"
+   ],
+   "brand_id": "522a7039-7dbd-5c56-9032-ce43fa4aa8e5",
+   "seller_name": "Yogabar",
+   "tags": [
+    "Whey protein"
+   ],
+   "price_from": 1699,
+   "mrp": 2099,
+   "discount_pct": 19,
+   "sort_order": 3,
+   "category": "wellness",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "17d2e3d0-e762-5a8d-a4cb-8eb52fbd4b4c",
+   "title": "10g Protein Wafer Bars Dark Chocolate Flavour - Pack of 10",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabars-protein-wafer-bar-dark-chocolate-pack-of-10-box-10g-protein-0-percent-maida.jpg?v=1782729273",
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabars-protein-wafer-bar-dark-chocolate-10g-protein-lifestyle-guilt-free-snack.jpg?v=1782729315",
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabars-protein-wafer-bar-dark-chocolate-10g-protein-no-maida-no-added-sugar-product-shot.jpg?v=1782729371"
+   ],
+   "brand_id": "522a7039-7dbd-5c56-9032-ce43fa4aa8e5",
+   "seller_name": "Yogabar",
+   "tags": [
+    "Protein bars"
+   ],
+   "price_from": 399,
+   "mrp": 600,
+   "discount_pct": 34,
+   "sort_order": 9,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "cfe7f19b-6023-5303-9945-dbb01933d6b7",
+   "title": "Power Up Coffee Crush Butter 20g Protein Bar 70g",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-power-up-coffee-crush-protein-bar-70g.jpg?v=1784619002",
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-coffee-crush-protein-bar-nutrition-label-70g.jpg?v=1784619043"
+   ],
+   "brand_id": "522a7039-7dbd-5c56-9032-ce43fa4aa8e5",
+   "seller_name": "Yogabar",
+   "tags": [
+    "Protein bars"
+   ],
+   "price_from": 125,
+   "mrp": 125,
+   "discount_pct": null,
+   "sort_order": 12,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "327959ee-bbcd-5659-a7fc-b7859b0ad3b5",
+   "title": "OG Muesli - Dark Chocolate",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/OG-Muesli-FOP_1.jpg?v=1789546692",
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/OG-Muesli-Side.jpg?v=1789546692"
+   ],
+   "brand_id": "522a7039-7dbd-5c56-9032-ce43fa4aa8e5",
+   "seller_name": "Yogabar",
+   "tags": [
+    "Muesli and oats"
+   ],
+   "price_from": 349,
+   "mrp": 400,
+   "discount_pct": 13,
+   "sort_order": 16,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "20398cce-49e1-5d6b-a269-512554b47b10",
+   "title": "Creamy 100% Unsweetened Peanut Butter 400g",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/buy-yogabar-creamy-unsweetened-peanut-butter.jpg?v=1780742647",
+    "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-peanut-butter-400g-nutrition-facts.jpg?v=1780742810"
+   ],
+   "brand_id": "522a7039-7dbd-5c56-9032-ce43fa4aa8e5",
+   "seller_name": "Yogabar",
+   "tags": [
+    "Spreads"
+   ],
+   "price_from": 280,
+   "mrp": 280,
+   "discount_pct": null,
+   "sort_order": 18,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "876d3444-610c-5940-aeba-8e141276403f",
+   "title": "20g MEGA Protein Wafer - Kesar Pista Badam (Pack of 6) x 2",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/3_20gProtein_Monocarton_FOP_EComD2C_Combo_24b4bb7c-f15d-4741-b240-4303bc0500d3.jpg?v=1791361843",
+    "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/1_19.jpg?v=1785239199"
+   ],
+   "brand_id": "d44c59d5-e29d-5026-842f-78a9c0193826",
+   "seller_name": "SuperYou",
+   "tags": [
+    "Protein bars"
+   ],
+   "price_from": 1299,
+   "mrp": 1500,
+   "discount_pct": 13,
+   "sort_order": 13,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "ef953e96-7080-587a-b76f-631699d757dd",
+   "title": "Open Secret Premium Makhana",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/makhanaplainFOPhero_website11june2024.jpg?v=1718157881",
+    "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/makhanaplainBOPhero_website11june2024.jpg?v=1718157881"
+   ],
+   "brand_id": "79d56d52-d3bc-5f4e-9467-a2d3edba1d30",
+   "seller_name": "Open Secret",
+   "tags": [
+    "Makhana"
+   ],
+   "price_from": 399,
+   "mrp": 549,
+   "discount_pct": 27,
+   "sort_order": 10,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "1b0ce091-ebb0-5b2a-8a84-63d396e64b57",
+   "title": "Open Secret Ragi Chips - Korean Mirchi 30g",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/1.KoreanMirchiragichipsFOP.jpg?v=1787312122",
+    "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/2.KoreanMirchiragichipsBOP.jpg?v=1787312122"
+   ],
+   "brand_id": "79d56d52-d3bc-5f4e-9467-a2d3edba1d30",
+   "seller_name": "Open Secret",
+   "tags": [
+    "Chips and namkeen"
+   ],
+   "price_from": 40,
+   "mrp": 40,
+   "discount_pct": null,
+   "sort_order": 14,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "bf5356e4-22bc-524c-8e00-03492faf649f",
+   "title": "Open Secret High Protein Rusk - Elaichi 80g",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/Rusklistingfop2.1.jpg?v=1784099250",
+    "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/5.Usp.jpg?v=1784099250"
+   ],
+   "brand_id": "79d56d52-d3bc-5f4e-9467-a2d3edba1d30",
+   "seller_name": "Open Secret",
+   "tags": [
+    "Biscuits and rusks"
+   ],
+   "price_from": 49,
+   "mrp": 49,
+   "discount_pct": null,
+   "sort_order": 19,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "8941bc1b-eec3-5fdc-89ee-51f58916ffff",
+   "title": "Open Secret High Protein Healthy Breakfast Oats 1 kg",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/1._FOP_3.jpg?v=1775630233",
+    "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/2._USP.jpg?v=1775630233"
+   ],
+   "brand_id": "79d56d52-d3bc-5f4e-9467-a2d3edba1d30",
+   "seller_name": "Open Secret",
+   "tags": [
+    "Muesli and oats"
+   ],
+   "price_from": 499,
+   "mrp": 749,
+   "discount_pct": 33,
+   "sort_order": 17,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "5bd21935-1414-5413-8805-3f6319b25d4c",
+   "title": "Date Bites - No Added Sugar",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0597/7754/8453/files/classic_DB_KV.png?v=1769665648",
+    "https://cdn.shopify.com/s/files/1/0597/7754/8453/files/2_87158004-e731-49c0-9cbf-2fee70e47992.jpg?v=1784712998"
+   ],
+   "brand_id": "8a00f71b-84a5-5452-8edb-bf2196648314",
+   "seller_name": "Farmley",
+   "tags": [
+    "Dry fruit bites"
+   ],
+   "price_from": 345,
+   "mrp": 400,
+   "discount_pct": 14,
+   "sort_order": 11,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "ced5eb9d-cfa3-5a24-a6f0-548cfcbc2669",
+   "title": "5-in-1 Seed Mix (200 g)",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0597/7754/8453/files/seed_mix_1kg_jar_listing_A_-03.jpg?v=1765530020",
+    "https://cdn.shopify.com/s/files/1/0597/7754/8453/files/seed_mix_1kg_jar_listing_A_-04.jpg?v=1765530020"
+   ],
+   "brand_id": "8a00f71b-84a5-5452-8edb-bf2196648314",
+   "seller_name": "Farmley",
+   "tags": [
+    "Seeds"
+   ],
+   "price_from": 199,
+   "mrp": 219,
+   "discount_pct": 9,
+   "sort_order": 15,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "c5bfb4a7-7f98-55c0-9016-21abeb475079",
+   "title": "Premium Pumpkin Seeds 200 g",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0597/7754/8453/files/Pumpkin_seeds.png?v=1769602006",
+    "https://cdn.shopify.com/s/files/1/0597/7754/8453/files/Pumpkin_SeedsListinge-01_1.png?v=1769602006"
+   ],
+   "brand_id": "8a00f71b-84a5-5452-8edb-bf2196648314",
+   "seller_name": "Farmley",
+   "tags": [
+    "Seeds"
+   ],
+   "price_from": 199,
+   "mrp": 245,
+   "discount_pct": 19,
+   "sort_order": 20,
+   "category": "food",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  }
+ ],
+ "variants": [
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "51f85462-1567-564c-afd3-997638edd10e",
+   "title": "1kg / Double Rich Chocolate",
+   "price": 2471,
+   "option_values": {
+    "Size": "1kg",
+    "Flavour": "Double Rich Chocolate"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "0c9573cc-2b8a-5d75-9c3b-ffe9a3ca713d",
+   "title": "1kg / Choco Hazel Fusion",
+   "price": 2471,
+   "option_values": {
+    "Size": "1kg",
+    "Flavour": "Choco Hazel Fusion"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "2dbaf807-cb31-56e4-8465-6a1bad4221c7",
+   "title": "1kg / Kesar Kulfi",
+   "price": 2471,
+   "option_values": {
+    "Size": "1kg",
+    "Flavour": "Kesar Kulfi"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "e0b009c3-095b-59fd-95b4-2801ca80853b",
+   "title": "1kg / Dubai Kunafa",
+   "price": 2471,
+   "option_values": {
+    "Size": "1kg",
+    "Flavour": "Dubai Kunafa"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "30fd7dcf-e994-53d9-93d6-32ea2d821e1a",
+   "title": "1kg / Irish Chocolate",
+   "price": 2471,
+   "option_values": {
+    "Size": "1kg",
+    "Flavour": "Irish Chocolate"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "89aaa2f5-c36b-5326-b46d-1c7b48e14b40",
+   "title": "2kg / Double Rich Chocolate",
+   "price": 4838,
+   "option_values": {
+    "Size": "2kg",
+    "Flavour": "Double Rich Chocolate"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "84a429f8-59e9-52ac-8b9d-f53908bee07e",
+   "title": "2kg / Choco Hazel Fusion",
+   "price": 4838,
+   "option_values": {
+    "Size": "2kg",
+    "Flavour": "Choco Hazel Fusion"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "d2a908f7-7cc9-5567-9b66-2bfad3adee96",
+   "title": "2kg / Kesar Kulfi",
+   "price": 4838,
+   "option_values": {
+    "Size": "2kg",
+    "Flavour": "Kesar Kulfi"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "624d2e08-1c59-5f7d-8bb7-51d1e175722a",
+   "title": "2kg / Dubai Kunafa",
+   "price": 4838,
+   "option_values": {
+    "Size": "2kg",
+    "Flavour": "Dubai Kunafa"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "f6df42a1-236a-5c81-a967-9cd111fdc110",
+   "variant_id": "362d0d97-9a6d-5a5f-a700-4fbe2a37bb17",
+   "title": "2kg / Irish Chocolate",
+   "price": 4838,
+   "option_values": {
+    "Size": "2kg",
+    "Flavour": "Irish Chocolate"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "8fa05847-62ae-50a2-a764-8976a5b73a3e",
+   "variant_id": "4e119b44-b62d-5218-b14b-68a46af0ed87",
+   "title": "500g / Cafe Mocha",
+   "price": 1099,
+   "option_values": {
+    "Size": "500g",
+    "Flavour": "Cafe Mocha"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8fa05847-62ae-50a2-a764-8976a5b73a3e",
+   "variant_id": "b8610112-67ee-51ac-9926-212a9a7bdec3",
+   "title": "500g / Double Rich Chocolate",
+   "price": 1099,
+   "option_values": {
+    "Size": "500g",
+    "Flavour": "Double Rich Chocolate"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8fa05847-62ae-50a2-a764-8976a5b73a3e",
+   "variant_id": "20413200-22e6-56ef-a437-5a29d594616d",
+   "title": "500g / Irish Chocolate",
+   "price": 1099,
+   "option_values": {
+    "Size": "500g",
+    "Flavour": "Irish Chocolate"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8fa05847-62ae-50a2-a764-8976a5b73a3e",
+   "variant_id": "73359799-4a72-5032-ab53-84a42ba9b1b7",
+   "title": "500g / Kesar Kulfi",
+   "price": 1099,
+   "option_values": {
+    "Size": "500g",
+    "Flavour": "Kesar Kulfi"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "8fa05847-62ae-50a2-a764-8976a5b73a3e",
+   "variant_id": "f69873e6-0acc-5379-8229-07cfec63c819",
+   "title": "500g / Dubai Kunafa",
+   "price": 1099,
+   "option_values": {
+    "Size": "500g",
+    "Flavour": "Dubai Kunafa"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "acf822c5-7bf5-5783-9c60-788845b3a6a6",
+   "variant_id": "b7b0f5b4-4aaa-5ffd-8769-6f0d10b22579",
+   "title": "Default Title",
+   "price": 699,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "bdfa746d-2746-5a2d-88d6-b27d3f1b6bbb",
+   "variant_id": "6139414b-ea2e-5692-8e1a-3bad0ff09f42",
+   "title": "Default Title",
+   "price": 2249,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "a5226b10-e30b-52f2-807e-c94bfc0723b0",
+   "variant_id": "8b1f23d7-1a3a-571f-bbc8-0563ef461049",
+   "title": "Default Title",
+   "price": 1999,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "785bfe8a-c4bf-5e73-8dbe-4441fb70d6e3",
+   "variant_id": "f634e3dc-24e9-571c-8756-9956ede3f749",
+   "title": "Default Title",
+   "price": 299,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "979fa54b-ed61-5a5c-8fc8-513dc9ffecbe",
+   "variant_id": "51077f86-b2a9-57cc-b5dc-778ff6065208",
+   "title": "Default Title",
+   "price": 2499,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "0b685002-6866-5ccb-929b-bfa91fd3490e",
+   "variant_id": "ee8bb512-57b2-51e3-802e-88267b0d9c3b",
+   "title": "Default Title",
+   "price": 799,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "5d30f59a-81ea-55df-8404-2fbc66d08662",
+   "variant_id": "1101fa4f-5d2f-5f76-92c1-97088c10b452",
+   "title": "500g x 1 (500g)",
+   "price": 1699,
+   "option_values": {
+    "Size": "500g x 1 (500g)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "5d30f59a-81ea-55df-8404-2fbc66d08662",
+   "variant_id": "4be6295e-b56b-53ec-bda6-38b72a1625de",
+   "title": "500g x 2 (1kg)",
+   "price": 3198,
+   "option_values": {
+    "Size": "500g x 2 (1kg)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "5d30f59a-81ea-55df-8404-2fbc66d08662",
+   "variant_id": "00362c4f-1f85-54b7-bc22-f3780882f057",
+   "title": "500g x 3 (1.5kg)",
+   "price": 4497,
+   "option_values": {
+    "Size": "500g x 3 (1.5kg)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "17d2e3d0-e762-5a8d-a4cb-8eb52fbd4b4c",
+   "variant_id": "30173332-4898-5f53-9b9c-1dbdbe0cf626",
+   "title": "Dark Chocolate",
+   "price": 399,
+   "option_values": {
+    "Flavour": "Dark Chocolate"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "cfe7f19b-6023-5303-9945-dbb01933d6b7",
+   "variant_id": "2dacb956-a2d6-5b71-866e-6ad717e9c1c9",
+   "title": "Default Title",
+   "price": 125,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "327959ee-bbcd-5659-a7fc-b7859b0ad3b5",
+   "variant_id": "7712f0ad-c3fc-5b24-af98-960caf399048",
+   "title": "Default Title",
+   "price": 349,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "20398cce-49e1-5d6b-a269-512554b47b10",
+   "variant_id": "d5fb6f8f-ffbc-5f14-ac39-9e15c7570c3b",
+   "title": "Default Title",
+   "price": 280,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "876d3444-610c-5940-aeba-8e141276403f",
+   "variant_id": "260093b9-b635-5562-9416-5ae18e916791",
+   "title": "Default Title",
+   "price": 1299,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "ef953e96-7080-587a-b76f-631699d757dd",
+   "variant_id": "f05fbddd-3973-5256-bbc4-e2af4f56ce41",
+   "title": "Default Title",
+   "price": 399,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "1b0ce091-ebb0-5b2a-8a84-63d396e64b57",
+   "variant_id": "5984626c-17b3-54df-8f8f-808a47d6a573",
+   "title": "Default Title",
+   "price": 40,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "bf5356e4-22bc-524c-8e00-03492faf649f",
+   "variant_id": "e07b2a89-17c8-511f-bf88-a4555c75e00e",
+   "title": "Default Title",
+   "price": 49,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "8941bc1b-eec3-5fdc-89ee-51f58916ffff",
+   "variant_id": "8d28ab4e-9aa8-5fec-a1c7-855f7d7faeeb",
+   "title": "Default Title",
+   "price": 499,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "5bd21935-1414-5413-8805-3f6319b25d4c",
+   "variant_id": "f0acc9c7-95a3-5270-aec0-61ceecbcd254",
+   "title": "200 g",
+   "price": 345,
+   "option_values": {
+    "Size": "200 g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "5bd21935-1414-5413-8805-3f6319b25d4c",
+   "variant_id": "03013897-de10-58ec-a3f8-ac1ac3d3c606",
+   "title": "Pack of 3 (200 g each)",
+   "price": 999,
+   "option_values": {
+    "Size": "Pack of 3 (200 g each)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ced5eb9d-cfa3-5a24-a6f0-548cfcbc2669",
+   "variant_id": "7ef4b599-cf58-5fff-923d-13c6150f1ac6",
+   "title": "200 g",
+   "price": 199,
+   "option_values": {
+    "Size": "200 g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ced5eb9d-cfa3-5a24-a6f0-548cfcbc2669",
+   "variant_id": "3db6bb90-4a09-5673-91a0-8acf4e566898",
+   "title": "Pack of 3 (200 g each)",
+   "price": 576,
+   "option_values": {
+    "Size": "Pack of 3 (200 g each)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "ced5eb9d-cfa3-5a24-a6f0-548cfcbc2669",
+   "variant_id": "83ecdaf4-82a2-5cb1-82b7-796d7c7e3a65",
+   "title": "Seed mix 1 kg Jar",
+   "price": 999,
+   "option_values": {
+    "Size": "Seed mix 1 kg Jar"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "c5bfb4a7-7f98-55c0-9016-21abeb475079",
+   "variant_id": "79ff2e3a-5eec-534f-86a8-a357a9e1b682",
+   "title": "200 g",
+   "price": 199,
+   "option_values": {
+    "Size": "200 g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "c5bfb4a7-7f98-55c0-9016-21abeb475079",
+   "variant_id": "3c48d7f4-d55c-556a-9ca5-15efdbdb9133",
+   "title": "Pack of 2 (200 g each)",
+   "price": 369,
+   "option_values": {
+    "Size": "Pack of 2 (200 g each)"
+   },
+   "is_buyable": true
+  }
+ ],
+ "collections": [
+  {
+   "collection_id": "3788e4f1-304f-502a-a7a3-e82b125ec0f1",
+   "name": "{first's} Diet",
+   "slug": "diet",
+   "description": "The protein and supplements in {first's} own routine. Sample picks for this preview.",
+   "cover_url": null,
+   "on_home": true,
+   "sort_order": 0,
+   "product_ids": [
+    "f6df42a1-236a-5c81-a967-9cd111fdc110",
+    "785bfe8a-c4bf-5e73-8dbe-4441fb70d6e3",
+    "bdfa746d-2746-5a2d-88d6-b27d3f1b6bbb",
+    "5d30f59a-81ea-55df-8404-2fbc66d08662",
+    "8fa05847-62ae-50a2-a764-8976a5b73a3e",
+    "979fa54b-ed61-5a5c-8fc8-513dc9ffecbe",
+    "a5226b10-e30b-52f2-807e-c94bfc0723b0",
+    "acf822c5-7bf5-5783-9c60-788845b3a6a6",
+    "0b685002-6866-5ccb-929b-bfa91fd3490e"
+   ]
+  },
+  {
+   "collection_id": "af859d1b-ad37-58c1-b68b-f15aebc3201c",
+   "name": "Munch with {first}",
+   "slug": "munch",
+   "description": "Healthy snacks for between meals and long shoot days.",
+   "cover_url": null,
+   "on_home": true,
+   "sort_order": 1,
+   "product_ids": [
+    "17d2e3d0-e762-5a8d-a4cb-8eb52fbd4b4c",
+    "ef953e96-7080-587a-b76f-631699d757dd",
+    "5bd21935-1414-5413-8805-3f6319b25d4c",
+    "cfe7f19b-6023-5303-9945-dbb01933d6b7",
+    "876d3444-610c-5940-aeba-8e141276403f",
+    "1b0ce091-ebb0-5b2a-8a84-63d396e64b57",
+    "ced5eb9d-cfa3-5a24-a6f0-548cfcbc2669",
+    "327959ee-bbcd-5659-a7fc-b7859b0ad3b5",
+    "8941bc1b-eec3-5fdc-89ee-51f58916ffff",
+    "20398cce-49e1-5d6b-a269-512554b47b10",
+    "bf5356e4-22bc-524c-8e00-03492faf649f",
+    "c5bfb4a7-7f98-55c0-9016-21abeb475079"
+   ]
+  }
+ ],
+ "details": {
+  "f6df42a1-236a-5c81-a967-9cd111fdc110": {
+   "product": {
+    "description": "Each serving delivers 27 g of high-quality protein with a complete amino acid profile.\nEnhanced with DigeZyme® digestive enzymes and Lactobacillus & Bifidobacterium probiotics.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "AS-IT-IS Nutrition",
+    "address": null,
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "1 kg or 2 kg",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "orders@asitisnutrition.com, 080 71176077"
+   }
+  },
+  "8fa05847-62ae-50a2-a764-8976a5b73a3e": {
+   "product": {
+    "description": "ATOM NXT Protein is formulated with fermented yeast protein isolate, providing 31g of protein per serving.\nFormulated with DigeZyme®, a proprietary multi-enzyme complex containing amylase, protease, lipase, cellulase, and lactase.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "AS-IT-IS Nutrition",
+    "address": null,
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "500 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "orders@asitisnutrition.com, 080 71176077"
+   }
+  },
+  "acf822c5-7bf5-5783-9c60-788845b3a6a6": {
+   "product": {
+    "description": "Straightforward whey protein concentrate. That's it.\nA box containing six 35-gram packets with just one ingredient that you know.",
+    "video_url": null,
+    "materials": "Whey protein concentrate",
+    "care_instructions": "Mix a packet into a smoothie, oats, pancakes or coffee.",
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "AS-IT-IS Nutrition",
+    "address": null,
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "6 × 35 g (210 g)",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "orders@asitisnutrition.com, 080 71176077"
+   }
+  },
+  "bdfa746d-2746-5a2d-88d6-b27d3f1b6bbb": {
+   "product": {
+    "description": "Fast&Up Yeast Protein is made with Advanced Yeast Isolate with 26g protein and a Perfect 1.0 PDCAAS.\nComplete protein. Smooth texture. Great taste.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "Aeronutrix Sports Products Pvt. Ltd.",
+    "address": "315, Woodrow, 19 Veera Desai Road, Andheri West, Mumbai 400053",
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 kg",
+    "lm_manufacturer": "Marketed by Aeronutrix Sports Products Pvt. Ltd., 315, Woodrow, 19 Veera Desai Road, Andheri West, Mumbai 400053",
+    "lm_country_of_origin": "India",
+    "lm_consumer_care": "customercare@fastandup.in, 1800 120 9656 (toll free)"
+   }
+  },
+  "a5226b10-e30b-52f2-807e-c94bfc0723b0": {
+   "product": {
+    "description": "Fast&Up Plant Protein delivers 26g of protein per serving from Pea and Brown Rice Protein.\nEvery batch is tested across 480+ parameters for purity, safety and protein accuracy.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "Aeronutrix Sports Products Pvt. Ltd.",
+    "address": "315, Woodrow, 19 Veera Desai Road, Andheri West, Mumbai 400053",
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 kg, with a spillproof shaker",
+    "lm_manufacturer": "Marketed by Aeronutrix Sports Products Pvt. Ltd., 315, Woodrow, 19 Veera Desai Road, Andheri West, Mumbai 400053",
+    "lm_country_of_origin": "India",
+    "lm_consumer_care": "customercare@fastandup.in, 1800 120 9656 (toll free)"
+   }
+  },
+  "785bfe8a-c4bf-5e73-8dbe-4441fb70d6e3": {
+   "product": {
+    "description": "Creatine is one of the most researched supplements in the world for strength and performance.\nZero calories, zero sugar, zero artificial preservatives.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": "Take one scoop, daily.",
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "SuperYou",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "112 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hypedesk@superyou.in"
+   }
+  },
+  "979fa54b-ed61-5a5c-8fc8-513dc9ffecbe": {
+   "product": {
+    "description": "Rich kesar notes, real almond slices, and a flavour that’s been a family favourite for generations.\nMade with the lightest bio-fermented yeast protein for easy digestion and real muscle support.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "SuperYou",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "1 kg",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hypedesk@superyou.in"
+   }
+  },
+  "0b685002-6866-5ccb-929b-bfa91fd3490e": {
+   "product": {
+    "description": "Rich, dark, and ridiculously smooth.\nA dark chocolate protein with 24g of protein per scoop, made with bio-fermented yeast protein and no added sugar. Trial Pack of 8 X 36g each.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "SuperYou",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "8 × 36 g (288 g)",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hypedesk@superyou.in"
+   }
+  },
+  "5d30f59a-81ea-55df-8404-2fbc66d08662": {
+   "product": {
+    "description": "A thoughtfully curated blend of whey protein isolate and fermented yeast protein.\nLight, easy to digest, and gentle on the gut.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says when to take it, and why."
+   },
+   "seller": {
+    "legal_name": "Sproutlife Foods Pvt. Ltd.",
+    "address": "Kengeri, Bengaluru 560060",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "500 g a pack",
+    "lm_manufacturer": "Marketed by Sproutlife Foods Pvt. Ltd., Kengeri, Bengaluru 560060",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@yogabars.in, +91 96060 30616"
+   }
+  },
+  "17d2e3d0-e762-5a8d-a4cb-8eb52fbd4b4c": {
+   "product": {
+    "description": "Protein inside. Crunch outside.\nCrunchy high protein bars, 0% maida. Made with the goodness of millets & multigrain in a delicious dark chocolate flavour.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Sproutlife Foods Pvt. Ltd.",
+    "address": "Kengeri, Bengaluru 560060",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "Pack of 10",
+    "lm_manufacturer": "Marketed by Sproutlife Foods Pvt. Ltd., Kengeri, Bengaluru 560060",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@yogabars.in, +91 96060 30616"
+   }
+  },
+  "cfe7f19b-6023-5303-9945-dbb01933d6b7": {
+   "product": {
+    "description": "A hunger crushing protein bar with 20g protein.\nGoodness of peanut butter on the inside. Decadent dark chocolate on the outside.\nPerfect for 4pm hunger, morning hikes, late night cravings.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Sproutlife Foods Pvt. Ltd.",
+    "address": "Kengeri, Bengaluru 560060",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "70 g",
+    "lm_manufacturer": "Marketed by Sproutlife Foods Pvt. Ltd., Kengeri, Bengaluru 560060",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@yogabars.in, +91 96060 30616"
+   }
+  },
+  "327959ee-bbcd-5659-a7fc-b7859b0ad3b5": {
+   "product": {
+    "description": "Oats, almonds, cranberries, chia, pumpkin seeds and dark chocolate.\nHigh in protein, rich in fiber, and good enough to make you a morning person.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Sproutlife Foods Pvt. Ltd.",
+    "address": "Kengeri, Bengaluru 560060",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "400 g",
+    "lm_manufacturer": "Marketed by Sproutlife Foods Pvt. Ltd., Kengeri, Bengaluru 560060",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@yogabars.in, +91 96060 30616"
+   }
+  },
+  "20398cce-49e1-5d6b-a269-512554b47b10": {
+   "product": {
+    "description": "A smooth and creamy high protein spread — made with premium peanuts, slow-roasted for that deep, nutty indulgence.\nSwipe it on toast, swirl it into oats, or finally try those “save for later” Pinterest recipes.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Sproutlife Foods Pvt. Ltd.",
+    "address": "Kengeri, Bengaluru 560060",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "400 g",
+    "lm_manufacturer": "Marketed by Sproutlife Foods Pvt. Ltd., Kengeri, Bengaluru 560060",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@yogabars.in, +91 96060 30616"
+   }
+  },
+  "876d3444-610c-5940-aeba-8e141276403f": {
+   "product": {
+    "description": "A rich, creamy wafer inspired by the timeless flavour we all grew up loving, now packed with 20g protein.\nMade with atta and jowar, with no added sugar and no palm oil.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "SuperYou",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "2 packs of 6 wafers",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hypedesk@superyou.in"
+   }
+  },
+  "ef953e96-7080-587a-b76f-631699d757dd": {
+   "product": {
+    "description": "Plain makhana, fresh and handpicked, in hygienic packaging. Protein-rich and fiber-rich.\n1 pack (200g) of delicious un-junked plain makhana.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Open Secret",
+    "address": "#34, behind Cafe Coffee Day, Bellandur, Varthur, Bengaluru 560103",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "200 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "sayhello@opensecret.in"
+   }
+  },
+  "1b0ce091-ebb0-5b2a-8a84-63d396e64b57": {
+   "product": {
+    "description": "Made with the goodness of ragi and 7 supergrains, perfect for guilt-free everyday snacking.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Open Secret",
+    "address": "#34, behind Cafe Coffee Day, Bellandur, Varthur, Bengaluru 560103",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "30 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "sayhello@opensecret.in"
+   }
+  },
+  "bf5356e4-22bc-524c-8e00-03492faf649f": {
+   "product": {
+    "description": "Enjoy the perfect chai-time crunch with Open Secret High Protein Rusk – Elaichi.\nPerfect for dipping into tea or coffee.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Open Secret",
+    "address": "#34, behind Cafe Coffee Day, Bellandur, Varthur, Bengaluru 560103",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "80 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "sayhello@opensecret.in"
+   }
+  },
+  "8941bc1b-eec3-5fdc-89ee-51f58916ffff": {
+   "product": {
+    "description": "Instant healthy super breakfast with 22% protein, high fibre and no refined sugar.\nA delicious healthy alternative to sugary breakfasts.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Open Secret",
+    "address": "#34, behind Cafe Coffee Day, Bellandur, Varthur, Bengaluru 560103",
+    "state_code": "KA"
+   },
+   "rules": {
+    "lm_net_quantity": "1 kg",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "sayhello@opensecret.in"
+   }
+  },
+  "5bd21935-1414-5413-8805-3f6319b25d4c": {
+   "product": {
+    "description": "These bites have no added sugar, offering a guilt-free indulgence.\nPackaged for convenience, they're easy to carry, making them an ideal on-the-go snack.",
+    "video_url": null,
+    "materials": "Wet dates, cashew kernels, almond kernels, pistachio kernels, honey, desi ghee",
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Connedit Business Solutions Pvt. Ltd.",
+    "address": null,
+    "state_code": "HR"
+   },
+   "rules": {
+    "lm_net_quantity": "200 g (10 pieces of 20 g)",
+    "lm_manufacturer": "Connedit Business Solutions Pvt. Ltd., Killa No. 69, Piou Manyari, Sub Tehsil Rai, HSIIDC Industrial Estate, Kundli, Sonipat, Haryana 131028",
+    "lm_country_of_origin": "India",
+    "lm_consumer_care": "As printed on the pack"
+   }
+  },
+  "ced5eb9d-cfa3-5a24-a6f0-548cfcbc2669": {
+   "product": {
+    "description": "A protein-rich seed mix of salted pumpkin seeds, chia seeds, flax seeds, watermelon seeds and sunflower seeds.\nPacked with vegan proteins and high dietary fibre, this snack is the love of all vegans and fitness enthusiasts.",
+    "video_url": null,
+    "materials": "Sunflower, watermelon, pumpkin, flax and chia seeds",
+    "care_instructions": null,
+    "specifications": "Shelf life: 9 months",
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Connedit Business Solutions Pvt. Ltd.",
+    "address": null,
+    "state_code": "HR"
+   },
+   "rules": {
+    "lm_net_quantity": "200 g",
+    "lm_manufacturer": "Connedit Business Solutions Pvt. Ltd., Khasra No. 17/2/2 & 3, 51/1/2 Kaji Palasiya, Indore, Madhya Pradesh 452001",
+    "lm_country_of_origin": "India",
+    "lm_consumer_care": "As printed on the pack"
+   }
+  },
+  "c5bfb4a7-7f98-55c0-9016-21abeb475079": {
+   "product": {
+    "description": "Pumpkin seeds are a source of healthy fats, magnesium and nutrients.",
+    "video_url": null,
+    "materials": "Pumpkin seeds",
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Connedit Business Solutions Pvt. Ltd.",
+    "address": null,
+    "state_code": "HR"
+   },
+   "rules": {
+    "lm_net_quantity": "200 g",
+    "lm_manufacturer": "Connedit Business Solutions Pvt. Ltd., Khasra No. 17/2/2 & 3, 51/1/2 Kaji Palasiya, Indore, Madhya Pradesh 452001",
+    "lm_country_of_origin": "China",
+    "lm_consumer_care": "As printed on the pack"
+   }
+  }
+ }
+}

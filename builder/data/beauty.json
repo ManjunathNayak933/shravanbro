@@ -1,0 +1,1587 @@
+{
+ "key": "beauty",
+ "meta": {
+  "cover": "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick.png?v=1789641265",
+  "label": "Beauty",
+  "blurb": "Skincare and makeup",
+  "title": "Glow Edit",
+  "description": "A Kubal demo shop for skincare and makeup, from the brands that make them."
+ },
+ "shop": {
+  "storefront_id": "5cf7c0f7-f20e-5721-9b7a-90eb7ca4ea09",
+  "logo_url": null,
+  "favicon_url": null,
+  "contact_phone": null,
+  "cover_url": null,
+  "avatar_url": null,
+  "share_image_url": null,
+  "store_name": "{first's} Glow Edit",
+  "theme_color": "#d6336c",
+  "contact_email": "admin@kubal.online",
+  "contact_social": "{instagram}",
+  "subdomain": "glowedit",
+  "look": "blush",
+  "surface": null,
+  "heading_face": null,
+  "corners": null,
+  "card_style": null,
+  "photo_shape": "arch",
+  "header_style": null,
+  "collection_style": null,
+  "hero_style": "profile",
+  "tagline": "Skincare that earns its place, and makeup for every day.",
+  "bio": "{name's} shelf of skincare and makeup from Indian brands. Every product ships from the brand that makes it, and you check out on their own site.",
+  "announcement": "Concept preview by Kubal. Not a live shop, and {first} hasn't endorsed these products.",
+  "social_links": [
+   "{instagram}"
+  ],
+  "home_sections": [
+   "collections",
+   "collection_rows",
+   "deals",
+   "brands"
+  ],
+  "words": {
+   "creator_note_title": "Why {first} uses it",
+   "search_placeholder": "Search {first's} Glow Edit",
+   "collections_title": "Shop by routine",
+   "brands_title": "The brands"
+  }
+ },
+ "products": [
+  {
+   "product_id": "2a9f039e-7b90-50f3-8a31-dbeb1927aa61",
+   "title": "Salicylic Acid + LHA 2% Cleanser",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SalicylicCleanserNew.jpg?v=1756796206",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Cleanser_2.png?v=1724763872",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Cleanser_3.png?v=1724763872"
+   ],
+   "brand_id": "e271d79d-dfbb-54ef-b1c4-5809e2b07b1a",
+   "seller_name": "Minimalist",
+   "tags": [
+    "Cleansers"
+   ],
+   "price_from": 284,
+   "mrp": 299,
+   "discount_pct": 5,
+   "sort_order": 0,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "a185c03c-667a-53d1-bb40-856716d59d2f",
+   "title": "3% Niacinamide & Rice Water Toner for Bright Skin",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/NiaToner80ml01_22c93dd7-c5a3-4cbf-9c7b-99132d7f273b.webp?v=1777376118",
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/NiaToner80ml05_6252cfb2-7ff0-4f87-9034-ce7bb0b6c866.webp?v=1777376118",
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/NiaToner80ml06_25c4b2a5-182e-4c08-ad55-c6534848e315.webp?v=1777376118"
+   ],
+   "brand_id": "b415ebbe-c72a-5806-a05e-27278813ccc5",
+   "seller_name": "Plum",
+   "tags": [
+    "Toners"
+   ],
+   "price_from": 374,
+   "mrp": 440,
+   "discount_pct": 15,
+   "sort_order": 1,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "dbff1e6c-c6d2-513c-a2b5-647903c1e546",
+   "title": "Niacinamide 10% Face Serum",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10New.png?v=1721398127",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10Image2.png?v=1721398568",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_10_Image_3_1.png?v=1721379817"
+   ],
+   "brand_id": "e271d79d-dfbb-54ef-b1c4-5809e2b07b1a",
+   "seller_name": "Minimalist",
+   "tags": [
+    "Serums"
+   ],
+   "price_from": 237,
+   "mrp": 249,
+   "discount_pct": 5,
+   "sort_order": 2,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "f1096e1e-eb74-5e59-a478-cd8a2c60920e",
+   "title": "Vitamin B5 10% Moisturizer",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/B5Moisturizer1200-2-min.png?v=1756800645",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_B5_Moistu_2.png?v=1756800646",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_B5_Moistu_3.png?v=1756800646"
+   ],
+   "brand_id": "e271d79d-dfbb-54ef-b1c4-5809e2b07b1a",
+   "seller_name": "Minimalist",
+   "tags": [
+    "Moisturisers"
+   ],
+   "price_from": 332,
+   "mrp": 349,
+   "discount_pct": 5,
+   "sort_order": 3,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "138d000b-c43b-5081-8934-b7b109d4c9ea",
+   "title": "SPF 50 Sunscreen",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF50New.jpg?v=1756795782",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_50_2.png?v=1724763872",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_50_3.png?v=1724763872"
+   ],
+   "brand_id": "e271d79d-dfbb-54ef-b1c4-5809e2b07b1a",
+   "seller_name": "Minimalist",
+   "tags": [
+    "Sunscreen"
+   ],
+   "price_from": 237,
+   "mrp": 249.1,
+   "discount_pct": 5,
+   "sort_order": 4,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "1a97e47e-4853-5c4a-9244-176c1bf1e03c",
+   "title": "10% Niacinamide & Rice Water Brightening Face Serum For Clear & Bright Skin",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing_1st_Tile_Nia_Serum_50ml_1001x1001_px_5.webp?v=1778132412",
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/04_Nia-Serum-50ml_Listing_Amazon_1001x1001_d6c3c0c4-ec50-4deb-af21-c90850edde25.jpg?v=1773213817",
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/05_Nia-Serum-50ml_Listing_Amazon_1001x1001_c5706517-4f9f-45bc-b9bc-fd136578167c.jpg?v=1773213817"
+   ],
+   "brand_id": "b415ebbe-c72a-5806-a05e-27278813ccc5",
+   "seller_name": "Plum",
+   "tags": [
+    "Serums"
+   ],
+   "price_from": 296,
+   "mrp": 349,
+   "discount_pct": 15,
+   "sort_order": 5,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "68cdbdf4-edd9-5493-a942-cf9f0bc9b6a8",
+   "title": "15% Vitamin C & Mandarin Glow Boost Serum",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing_1st_Tile_Vit_C_15_Serum_30ml_1001x1001_px.webp?v=1776943410",
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/02_049b14c8-e8d2-4922-8167-3c27bde728aa.jpg?v=1735905481",
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/03_b30933c1-c9c1-448d-ae76-1dc26176d11b.jpg?v=1735905481"
+   ],
+   "brand_id": "b415ebbe-c72a-5806-a05e-27278813ccc5",
+   "seller_name": "Plum",
+   "tags": [
+    "Serums"
+   ],
+   "price_from": 467,
+   "mrp": 550,
+   "discount_pct": 15,
+   "sort_order": 6,
+   "category": "beauty",
+   "listed_at": "2026-10-01T06:30:00.000Z"
+  },
+  {
+   "product_id": "d3ff6de7-8361-568f-b3fa-ddf9d5c2b7a8",
+   "title": "Vitamin C 10% Face Serum",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/VitaminC10_1200-1-min.png?v=1646543848",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_02.png?v=1726489863",
+    "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_03.png?v=1726489864"
+   ],
+   "brand_id": "e271d79d-dfbb-54ef-b1c4-5809e2b07b1a",
+   "seller_name": "Minimalist",
+   "tags": [
+    "Serums"
+   ],
+   "price_from": 284,
+   "mrp": 299,
+   "discount_pct": 5,
+   "sort_order": 7,
+   "category": "beauty",
+   "listed_at": "2026-10-01T06:30:00.000Z"
+  },
+  {
+   "product_id": "4757913a-7327-5f81-b127-8d684f3b7d30",
+   "title": "Watermelon Sunscreen SPF 50+ PA++++ With New-Age UV Filters For Oily Skin",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/1-80G_bb347e61-11ee-4d8b-ad8e-4e3602e69164.jpg?v=1790680752",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/2_427f3318-6347-4e54-a22d-42551da9a6ad.jpg?v=1790680760",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/3_eb3e793f-7f8b-48d9-8bfe-dff76c2916ec.jpg?v=1790680765"
+   ],
+   "brand_id": "13280cd5-8a2d-5d99-b056-c5a6026c970e",
+   "seller_name": "Dot & Key",
+   "tags": [
+    "Sunscreen"
+   ],
+   "price_from": 445,
+   "mrp": 445,
+   "discount_pct": 0,
+   "sort_order": 8,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "925dd539-1975-54d0-aac0-d3cd48ac0d60",
+   "title": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/VitaminCSunscreenListing1_24ade7b6-5667-43a8-8cbf-a750fae616a4.jpg?v=1784638633",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/VitaminCSunscreenListing2_a8f78510-13c0-4eda-af70-229caccd5e04.jpg?v=1784890766",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/VitaminCSunscreenListing3_e411307d-bd71-49f7-8fdc-aeafc7b8a48c.jpg?v=1784890766"
+   ],
+   "brand_id": "13280cd5-8a2d-5d99-b056-c5a6026c970e",
+   "seller_name": "Dot & Key",
+   "tags": [
+    "Sunscreen"
+   ],
+   "price_from": 445,
+   "mrp": 445,
+   "discount_pct": 0,
+   "sort_order": 9,
+   "category": "beauty",
+   "listed_at": "2026-10-01T06:30:00.000Z"
+  },
+  {
+   "product_id": "af08c48a-c857-5cc1-93de-8ba08ed69e74",
+   "title": "Dragon Fruit Bounce Jelly Moisturizer With Plant PDRN",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/1_8a617397-7c07-403d-9ac0-7cb7fa9850be.jpg?v=1787991751",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/2_46f6584a-0448-4aad-8b4d-0cecd0ad4f25.jpg?v=1788522935",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/3_7fe978bc-3607-42b6-b4e3-e1eb8655deef.jpg?v=1788515771"
+   ],
+   "brand_id": "13280cd5-8a2d-5d99-b056-c5a6026c970e",
+   "seller_name": "Dot & Key",
+   "tags": [
+    "Moisturisers"
+   ],
+   "price_from": 499,
+   "mrp": 499,
+   "discount_pct": 0,
+   "sort_order": 10,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "e85fbe7c-01b9-561b-961f-b0d7fc3af5a4",
+   "title": "2% Niacinamide & Rice Water Brightening Gel Moisturizer For Clear & Bright Skin",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/01-Moodshot_Texure_Copy_copy_5894f901-dd79-4a70-b59b-3ad5633b9905.webp?v=1785741438",
+    "https://cdn.shopify.com/s/files/1/0390/2985/files/03-ClinicallyProvenDeliverycopy.webp?v=1782884237"
+   ],
+   "brand_id": "b415ebbe-c72a-5806-a05e-27278813ccc5",
+   "seller_name": "Plum",
+   "tags": [
+    "Moisturisers"
+   ],
+   "price_from": 466,
+   "mrp": 549,
+   "discount_pct": 15,
+   "sort_order": 11,
+   "category": "beauty",
+   "listed_at": "2026-10-01T06:30:00.000Z"
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "title": "Matte As Hell Crayon Lipstick",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick.png?v=1789641265",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick-2_9a618e6d.jpg?v=1785321309",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick-3_30e1ea59.jpg?v=1789641277"
+   ],
+   "brand_id": "9b82a896-13ae-556f-b7c6-86ca8e3552fc",
+   "seller_name": "SUGAR Cosmetics",
+   "tags": [
+    "Lipstick"
+   ],
+   "price_from": 617,
+   "mrp": 949,
+   "discount_pct": 35,
+   "sort_order": 12,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "title": "Pure Matte Lipstick",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/SB-S6_201RussianRed_dc5c3663-8473-45f4-a950-ace08d5e6327.jpg?v=1748634874",
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/SB-S6_202PeachesNCream_1402c8f1-75b1-4482-a473-0b84ca7a7d84.jpg?v=1748634874",
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/SB-S6_203Hazlenut_d080a847-91d2-4551-acbb-43d2fcb8d54e.jpg?v=1748634875"
+   ],
+   "brand_id": "bc4e53f4-4934-5aec-9151-99040a7180c6",
+   "seller_name": "Swiss Beauty",
+   "tags": [
+    "Lipstick"
+   ],
+   "price_from": 229,
+   "mrp": 229,
+   "discount_pct": 0,
+   "sort_order": 13,
+   "category": "beauty",
+   "listed_at": "2026-10-01T06:30:00.000Z"
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "title": "Ace Of Face Foundation Stick",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Ace-Of-Face-Foundation-Stick_ed623ba3.jpg?v=1785926537",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Ace-Of-Face-Foundation-Stick-2.jpg?v=1785926538",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Ace-Of-Face-Foundation-Stick-3.jpg?v=1785926539"
+   ],
+   "brand_id": "9b82a896-13ae-556f-b7c6-86ca8e3552fc",
+   "seller_name": "SUGAR Cosmetics",
+   "tags": [
+    "Face makeup"
+   ],
+   "price_from": 1079,
+   "mrp": 1199,
+   "discount_pct": 10,
+   "sort_order": 14,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "b6faaeff-62dd-546b-a65c-2f11a229ab30",
+   "title": "Highlighting Primer",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/SB-1305-01C_14a45063-6814-47b0-9dd5-c9a256b70901.png?v=1748634254",
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/2.png?v=1748634255",
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/3.png?v=1748634255"
+   ],
+   "brand_id": "bc4e53f4-4934-5aec-9151-99040a7180c6",
+   "seller_name": "Swiss Beauty",
+   "tags": [
+    "Face makeup"
+   ],
+   "price_from": 429,
+   "mrp": 429,
+   "discount_pct": 0,
+   "sort_order": 15,
+   "category": "beauty",
+   "listed_at": "2026-10-01T06:30:00.000Z"
+  },
+  {
+   "product_id": "c91887f4-586e-5593-9a83-164acc3d0b4f",
+   "title": "Contour De Force Face Palette",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Contour-De-Force-Face-Palette_2cd06f6a.jpg?v=1785926431",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Contour-De-Force-Face-Palette-2_f2712e3f.jpg?v=1785926442",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Contour-De-Force-Face-Palette-3_0e93d9be.jpg?v=1785926453"
+   ],
+   "brand_id": "9b82a896-13ae-556f-b7c6-86ca8e3552fc",
+   "seller_name": "SUGAR Cosmetics",
+   "tags": [
+    "Face makeup"
+   ],
+   "price_from": 519,
+   "mrp": 799,
+   "discount_pct": 35,
+   "sort_order": 16,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "09967ba1-f6e8-5100-8e7f-5e1c8fe4c297",
+   "title": "Precision Mascara",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/FOP_a5fd0225-d379-445c-98a5-252192cc6e28.jpg?v=1753704594",
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/1500X1500_S1_3f319222-2d20-4f98-bf68-cc94fd9f9cf7.jpg?v=1753704665",
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/1500X1500_S2.jpg?v=1753704665"
+   ],
+   "brand_id": "bc4e53f4-4934-5aec-9151-99040a7180c6",
+   "seller_name": "Swiss Beauty",
+   "tags": [
+    "Eyes"
+   ],
+   "price_from": 299,
+   "mrp": 299,
+   "discount_pct": 0,
+   "sort_order": 17,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  },
+  {
+   "product_id": "41301e4a-3a3a-50c2-bd47-dfa506c6c168",
+   "title": "Makeup Fixer",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/S1_2daf3592-64b8-4aab-94ac-689424cd87b9.jpg?v=1756901638",
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/S2_76e24cb9-d7cf-4d7e-8b52-557589e3fcdc.jpg?v=1756901638",
+    "https://cdn.shopify.com/s/files/1/0595/6691/5779/files/S3_99526408-7833-4d7d-aac6-cbfca9e928da.jpg?v=1756901638"
+   ],
+   "brand_id": "bc4e53f4-4934-5aec-9151-99040a7180c6",
+   "seller_name": "Swiss Beauty",
+   "tags": [
+    "Face makeup"
+   ],
+   "price_from": 289,
+   "mrp": 289,
+   "discount_pct": 0,
+   "sort_order": 18,
+   "category": "beauty",
+   "listed_at": "2026-10-01T06:30:00.000Z"
+  },
+  {
+   "product_id": "66970aef-d5df-52f8-84ff-937a08d7294d",
+   "title": "Plushie Jelly Lip Balm",
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Frame1.jpg?v=1791203904",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Frame2.jpg?v=1791203904",
+    "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Frame3.jpg?v=1791203904"
+   ],
+   "brand_id": "13280cd5-8a2d-5d99-b056-c5a6026c970e",
+   "seller_name": "Dot & Key",
+   "tags": [
+    "Lip care"
+   ],
+   "price_from": 299,
+   "mrp": 299,
+   "discount_pct": 0,
+   "sort_order": 19,
+   "category": "beauty",
+   "listed_at": "2026-10-08T06:30:00.000Z"
+  }
+ ],
+ "variants": [
+  {
+   "product_id": "2a9f039e-7b90-50f3-8a31-dbeb1927aa61",
+   "variant_id": "97fec704-a04e-579b-ba3f-ee4249bf1976",
+   "title": "100ml",
+   "price": 284,
+   "option_values": {
+    "Size": "100ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "2a9f039e-7b90-50f3-8a31-dbeb1927aa61",
+   "variant_id": "a5992902-2f29-58a8-bef0-bbfe53c9350c",
+   "title": "250ml",
+   "price": 569,
+   "option_values": {
+    "Size": "250ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "a185c03c-667a-53d1-bb40-856716d59d2f",
+   "variant_id": "581bd369-21fc-50c6-961f-73aaa6662cb6",
+   "title": "150 ml",
+   "price": 374,
+   "option_values": {
+    "Size": "150 ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "dbff1e6c-c6d2-513c-a2b5-647903c1e546",
+   "variant_id": "921894db-140a-54a4-9ea2-d014cfbc037c",
+   "title": "10ml",
+   "price": 237,
+   "option_values": {
+    "Size": "10ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "dbff1e6c-c6d2-513c-a2b5-647903c1e546",
+   "variant_id": "f6b5ad7d-c91b-59ec-8d76-7f75b1ad85b3",
+   "title": "20ml",
+   "price": 474,
+   "option_values": {
+    "Size": "20ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "dbff1e6c-c6d2-513c-a2b5-647903c1e546",
+   "variant_id": "4c2e39e6-3ccf-5b61-bcf5-edc4456889e7",
+   "title": "30ml",
+   "price": 569,
+   "option_values": {
+    "Size": "30ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "dbff1e6c-c6d2-513c-a2b5-647903c1e546",
+   "variant_id": "855e75b4-dd19-59e8-867d-af6a62167bfc",
+   "title": "60ml",
+   "price": 949,
+   "option_values": {
+    "Size": "60ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f1096e1e-eb74-5e59-a478-cd8a2c60920e",
+   "variant_id": "6e49a0ba-22fe-5408-8f5e-1b480d534623",
+   "title": "50g",
+   "price": 332,
+   "option_values": {
+    "Size": "50g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f1096e1e-eb74-5e59-a478-cd8a2c60920e",
+   "variant_id": "06dcdfe4-7272-5ac8-9067-857dea8b8854",
+   "title": "100g",
+   "price": 569,
+   "option_values": {
+    "Size": "100g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "138d000b-c43b-5081-8934-b7b109d4c9ea",
+   "variant_id": "316f5757-5a09-5daa-80e1-955291997f55",
+   "title": "30g",
+   "price": 237,
+   "option_values": {
+    "Size": "30g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "138d000b-c43b-5081-8934-b7b109d4c9ea",
+   "variant_id": "c4fbde1d-8744-58e3-9a6d-36a272bd746e",
+   "title": "50g",
+   "price": 379,
+   "option_values": {
+    "Size": "50g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "138d000b-c43b-5081-8934-b7b109d4c9ea",
+   "variant_id": "4601e8a1-142e-575d-af66-1a0cea9c68e2",
+   "title": "100g",
+   "price": 664,
+   "option_values": {
+    "Size": "100g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "1a97e47e-4853-5c4a-9244-176c1bf1e03c",
+   "variant_id": "da35a389-f677-5246-bd65-a4f5b9faf85c",
+   "title": "15 ml",
+   "price": 296,
+   "option_values": {
+    "Size": "15 ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "1a97e47e-4853-5c4a-9244-176c1bf1e03c",
+   "variant_id": "755b1621-d7e4-5709-9cea-1ff7f52df883",
+   "title": "30 ml",
+   "price": 560,
+   "option_values": {
+    "Size": "30 ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "1a97e47e-4853-5c4a-9244-176c1bf1e03c",
+   "variant_id": "e2894e41-c5f6-5943-b0b1-ddf47f50864d",
+   "title": "50 ml",
+   "price": 721,
+   "option_values": {
+    "Size": "50 ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "68cdbdf4-edd9-5493-a942-cf9f0bc9b6a8",
+   "variant_id": "7530d5a9-57f5-5d1f-83bf-197ac209631e",
+   "title": "20 ml",
+   "price": 467,
+   "option_values": {
+    "Size": "20 ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "68cdbdf4-edd9-5493-a942-cf9f0bc9b6a8",
+   "variant_id": "5c223198-18e9-5d9c-b8f9-585281db467e",
+   "title": "30 ml",
+   "price": 671,
+   "option_values": {
+    "Size": "30 ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d3ff6de7-8361-568f-b3fa-ddf9d5c2b7a8",
+   "variant_id": "1106419e-704b-52b9-8901-85baa0492de1",
+   "title": "10ml",
+   "price": 284,
+   "option_values": {
+    "Size": "10ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d3ff6de7-8361-568f-b3fa-ddf9d5c2b7a8",
+   "variant_id": "5d8102ae-11fe-5e35-8bdc-1d48e7e535d3",
+   "title": "20ml",
+   "price": 546,
+   "option_values": {
+    "Size": "20ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "d3ff6de7-8361-568f-b3fa-ddf9d5c2b7a8",
+   "variant_id": "bc87caa7-09c9-534e-b0d0-b92f4dd92163",
+   "title": "30ml",
+   "price": 664,
+   "option_values": {
+    "Size": "30ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "4757913a-7327-5f81-b127-8d684f3b7d30",
+   "variant_id": "8e8c5bea-ea33-51d4-b660-df1979eb8b7c",
+   "title": "50g",
+   "price": 445,
+   "option_values": {
+    "Size": "50g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "4757913a-7327-5f81-b127-8d684f3b7d30",
+   "variant_id": "97e7f25d-1409-50e8-9789-147564f252de",
+   "title": "80g",
+   "price": 595,
+   "option_values": {
+    "Size": "80g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "925dd539-1975-54d0-aac0-d3cd48ac0d60",
+   "variant_id": "18509580-0f40-5cc3-b883-0ba53c291db4",
+   "title": "50g",
+   "price": 445,
+   "option_values": {
+    "Size": "50g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "925dd539-1975-54d0-aac0-d3cd48ac0d60",
+   "variant_id": "4a31a864-2361-5b4e-af56-9641f2834995",
+   "title": "80g",
+   "price": 595,
+   "option_values": {
+    "Size": "80g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "af08c48a-c857-5cc1-93de-8ba08ed69e74",
+   "variant_id": "0ab6131d-2a35-5074-bf8d-9c9a769f0145",
+   "title": "60ml",
+   "price": 499,
+   "option_values": {
+    "Size": "60ml"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e85fbe7c-01b9-561b-961f-b0d7fc3af5a4",
+   "variant_id": "7281d9f1-280a-5842-96ee-73293a87122f",
+   "title": "50 g",
+   "price": 466,
+   "option_values": {
+    "Size": "50 g"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "e85fbe7c-01b9-561b-961f-b0d7fc3af5a4",
+   "variant_id": "516490ff-4e83-5893-b682-2c2073cfdc81",
+   "title": "100g",
+   "price": 806,
+   "option_values": {
+    "Size": "100g"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "variant_id": "7bd32de9-a5d8-5bc9-8dcc-86f989a7d874",
+   "title": "01 Scarlett O'Hara (Red)",
+   "price": 854,
+   "option_values": {
+    "Color": "01 Scarlett O'Hara (Red)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "variant_id": "8d9b48f7-ecd8-5648-ae20-5fdae081d8ca",
+   "title": "04 Holly Golightly (Nude)",
+   "price": 617,
+   "option_values": {
+    "Color": "04 Holly Golightly (Nude)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "variant_id": "dec13d4a-7235-50bd-a3f3-9aa15fdd450b",
+   "title": "05 Rose Dawson (Rose Pink)",
+   "price": 854,
+   "option_values": {
+    "Color": "05 Rose Dawson (Rose Pink)"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "variant_id": "51a877b8-bf31-5e5f-83bc-dc58be5c51d0",
+   "title": "07 Viola (Mauve Nude)",
+   "price": 854,
+   "option_values": {
+    "Color": "07 Viola (Mauve Nude)"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "variant_id": "1d02be35-a8de-55ea-8725-9449fabb8eb7",
+   "title": "08 Jackie Brown (Reddish Brown)",
+   "price": 854,
+   "option_values": {
+    "Color": "08 Jackie Brown (Reddish Brown)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "variant_id": "3425f086-c042-50d6-8b4b-8e65e1dced1e",
+   "title": "10 Cherry Darling (Cherry Red)",
+   "price": 854,
+   "option_values": {
+    "Color": "10 Cherry Darling (Cherry Red)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "variant_id": "61c98ff0-46a5-5ec3-9d44-c372d11a0140",
+   "title": "11 Elle Woods (Brown Nude)",
+   "price": 854,
+   "option_values": {
+    "Color": "11 Elle Woods (Brown Nude)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+   "variant_id": "331887ca-ecea-5b50-a05c-82c18087d3cb",
+   "title": "12 Baby Houseman (Deep Pink)",
+   "price": 854,
+   "option_values": {
+    "Color": "12 Baby Houseman (Deep Pink)"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "variant_id": "fdd3fcb0-198c-5b9d-ac59-83f25d9db8d2",
+   "title": "Russian-Red",
+   "price": 229,
+   "option_values": {
+    "Color": "Russian-Red"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "variant_id": "927aed73-3cfc-5361-a330-e4079ebb8c26",
+   "title": "Hot-Nude",
+   "price": 229,
+   "option_values": {
+    "Color": "Hot-Nude"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "variant_id": "97ef24f6-dcfb-584a-b090-2da0678d03b9",
+   "title": "Hazel-Nut",
+   "price": 229,
+   "option_values": {
+    "Color": "Hazel-Nut"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "variant_id": "a465b2b0-1d31-50fc-9479-1caedbd2c205",
+   "title": "Fuchsia-Pink",
+   "price": 229,
+   "option_values": {
+    "Color": "Fuchsia-Pink"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "variant_id": "29d1a908-a9aa-5778-ba66-7aa23fbe0010",
+   "title": "Bare",
+   "price": 229,
+   "option_values": {
+    "Color": "Bare"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "variant_id": "9c4d66c4-c62f-51ef-bfe2-ee2aecb38ef2",
+   "title": "Lust-On",
+   "price": 229,
+   "option_values": {
+    "Color": "Lust-On"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "variant_id": "5aa3a765-0e50-5352-a8ff-d0ad2c97b5b6",
+   "title": "Natural-Coco",
+   "price": 229,
+   "option_values": {
+    "Color": "Natural-Coco"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "f8950d51-7901-5ba0-8a7a-99181eac102e",
+   "variant_id": "7d1cf76c-840f-5150-a42a-f6228902cc14",
+   "title": "Murphy-Brown",
+   "price": 229,
+   "option_values": {
+    "Color": "Murphy-Brown"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "variant_id": "731e064f-7ed0-5982-8f9f-a49e16c85a94",
+   "title": "07 Vanilla Latte (Fair, Golden Undertone)",
+   "price": 1079,
+   "option_values": {
+    "Color": "07 Vanilla Latte (Fair, Golden Undertone)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "variant_id": "a8fbe098-233c-52ac-a10a-7dff29ec633a",
+   "title": "10 Latte (Light Warm - Undertone)",
+   "price": 1169,
+   "option_values": {
+    "Color": "10 Latte (Light Warm - Undertone)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "variant_id": "79780488-a9cb-53b8-9d0a-4173b59bf145",
+   "title": "15 Cappuccino (Light Cool - Undertone)",
+   "price": 1169,
+   "option_values": {
+    "Color": "15 Cappuccino (Light Cool - Undertone)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "variant_id": "f1a44af0-e904-5e15-8a85-8c1e8dd8dc83",
+   "title": "17 Raf (Light - Golden Undertone)",
+   "price": 1169,
+   "option_values": {
+    "Color": "17 Raf (Light - Golden Undertone)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "variant_id": "160f9938-8cd1-5aae-b8a9-36682a09e83a",
+   "title": "20 Galão (Light Medium - Golden Undertone)",
+   "price": 1169,
+   "option_values": {
+    "Color": "20 Galão (Light Medium - Golden Undertone)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "variant_id": "ad6641e0-c71a-53a0-b0fe-40ea2a70be66",
+   "title": "25 Macchiato (Light Medium - Olive Undertone)",
+   "price": 1169,
+   "option_values": {
+    "Color": "25 Macchiato (Light Medium - Olive Undertone)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "variant_id": "318b320c-c65b-5b91-b6d0-308bd401cd30",
+   "title": "27 Vienna (Light Medium - Warm Undertone)",
+   "price": 1169,
+   "option_values": {
+    "Color": "27 Vienna (Light Medium - Warm Undertone)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+   "variant_id": "abe8bfea-3c4a-52f8-b8e9-2c64e5450718",
+   "title": "30 Chococcino (Medium - Warm Undertone)",
+   "price": 1169,
+   "option_values": {
+    "Color": "30 Chococcino (Medium - Warm Undertone)"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "b6faaeff-62dd-546b-a65c-2f11a229ab30",
+   "variant_id": "c407c023-f68c-5b35-ab55-0cea7d722f63",
+   "title": "Natural Tint",
+   "price": 429,
+   "option_values": {
+    "Color": "Natural Tint"
+   },
+   "is_buyable": false
+  },
+  {
+   "product_id": "b6faaeff-62dd-546b-a65c-2f11a229ab30",
+   "variant_id": "02c2eb87-51a9-5ab3-b610-78e2c50fe46d",
+   "title": "Golden Tint",
+   "price": 429,
+   "option_values": {
+    "Color": "Golden Tint"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "b6faaeff-62dd-546b-a65c-2f11a229ab30",
+   "variant_id": "53b906c9-f177-52c8-8dec-bc133cc7a5c3",
+   "title": "Pink Tint",
+   "price": 429,
+   "option_values": {
+    "Color": "Pink Tint"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "c91887f4-586e-5593-9a83-164acc3d0b4f",
+   "variant_id": "df69c49a-0ba9-5d9c-a009-1a5bbf420460",
+   "title": "01 Subtle Summit",
+   "price": 519,
+   "option_values": {
+    "Color": "01 Subtle Summit"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "c91887f4-586e-5593-9a83-164acc3d0b4f",
+   "variant_id": "c8f650f0-e308-5064-8e6a-5a1ef0685925",
+   "title": "02 Vivid Victory",
+   "price": 719,
+   "option_values": {
+    "Color": "02 Vivid Victory"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "c91887f4-586e-5593-9a83-164acc3d0b4f",
+   "variant_id": "c197843e-65b3-528b-bc64-4cfad2931ba2",
+   "title": "03 Fierce Feat",
+   "price": 519,
+   "option_values": {
+    "Color": "03 Fierce Feat"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "09967ba1-f6e8-5100-8e7f-5e1c8fe4c297",
+   "variant_id": "19d24dc5-6e8b-5550-95f4-6c417a1a7baa",
+   "title": "Black",
+   "price": 299,
+   "option_values": {
+    "Color": "Black"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "41301e4a-3a3a-50c2-bd47-dfa506c6c168",
+   "variant_id": "128a7dfc-64d9-52bc-836b-844a89915e9c",
+   "title": "Default Title",
+   "price": 289,
+   "option_values": null,
+   "is_buyable": true
+  },
+  {
+   "product_id": "66970aef-d5df-52f8-84ff-937a08d7294d",
+   "variant_id": "5cbf1585-2450-5b01-b71e-753b4de8612a",
+   "title": "Berry",
+   "price": 299,
+   "option_values": {
+    "Color": "Berry"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "66970aef-d5df-52f8-84ff-937a08d7294d",
+   "variant_id": "a5c2ba8e-b1a4-508b-9af0-666d97918c85",
+   "title": "Toffee Melt",
+   "price": 299,
+   "option_values": {
+    "Color": "Toffee Melt"
+   },
+   "is_buyable": true
+  },
+  {
+   "product_id": "66970aef-d5df-52f8-84ff-937a08d7294d",
+   "variant_id": "4eda5220-d9a9-543f-86b8-75cbdace6b28",
+   "title": "Bubblegum",
+   "price": 299,
+   "option_values": {
+    "Color": "Bubblegum"
+   },
+   "is_buyable": true
+  }
+ ],
+ "collections": [
+  {
+   "collection_id": "17a2782c-55bd-5c25-9b2c-962c7a03402c",
+   "name": "{first's} skincare routine",
+   "slug": "routine",
+   "description": "Cleanse, tone, treat, moisturise and protect: the steps in {first's} own routine. Sample picks for this preview.",
+   "cover_url": null,
+   "on_home": true,
+   "sort_order": 0,
+   "product_ids": [
+    "2a9f039e-7b90-50f3-8a31-dbeb1927aa61",
+    "a185c03c-667a-53d1-bb40-856716d59d2f",
+    "dbff1e6c-c6d2-513c-a2b5-647903c1e546",
+    "f1096e1e-eb74-5e59-a478-cd8a2c60920e",
+    "138d000b-c43b-5081-8934-b7b109d4c9ea",
+    "68cdbdf4-edd9-5493-a942-cf9f0bc9b6a8",
+    "af08c48a-c857-5cc1-93de-8ba08ed69e74"
+   ]
+  },
+  {
+   "collection_id": "9cfb16c7-ccbf-5fb6-8d6d-c818e99e78d7",
+   "name": "Sunscreen shelf",
+   "slug": "sunscreen",
+   "description": "SPF 50 for every day, from three brands.",
+   "cover_url": null,
+   "on_home": true,
+   "sort_order": 1,
+   "product_ids": [
+    "138d000b-c43b-5081-8934-b7b109d4c9ea",
+    "4757913a-7327-5f81-b127-8d684f3b7d30",
+    "925dd539-1975-54d0-aac0-d3cd48ac0d60"
+   ]
+  },
+  {
+   "collection_id": "b282225e-e696-5adb-a59e-163d341ceff0",
+   "name": "Everyday makeup",
+   "slug": "makeup",
+   "description": "Lips, base and a little glow, for days that need ten minutes, not forty.",
+   "cover_url": null,
+   "on_home": true,
+   "sort_order": 2,
+   "product_ids": [
+    "cb5e4076-16c8-571c-a6cb-8ccc5852870c",
+    "f8950d51-7901-5ba0-8a7a-99181eac102e",
+    "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc",
+    "b6faaeff-62dd-546b-a65c-2f11a229ab30",
+    "c91887f4-586e-5593-9a83-164acc3d0b4f",
+    "09967ba1-f6e8-5100-8e7f-5e1c8fe4c297",
+    "41301e4a-3a3a-50c2-bd47-dfa506c6c168",
+    "66970aef-d5df-52f8-84ff-937a08d7294d"
+   ]
+  }
+ ],
+ "details": {
+  "2a9f039e-7b90-50f3-8a31-dbeb1927aa61": {
+   "product": {
+    "description": "Minimalist's 2% salicylic acid and LHA face cleanser.\nWhen to use: morning and night, every day.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says where it fits in a routine, and why."
+   },
+   "seller": {
+    "legal_name": "Uprising Science Pvt. Ltd.",
+    "address": "2nd Floor, Commercial Building, Hotel Marriott, New Jawahar Circle, Gandhi Nagar, Jaipur 302015",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "100 ml or 250 ml",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 97723 46555"
+   }
+  },
+  "a185c03c-667a-53d1-bb40-856716d59d2f": {
+   "product": {
+    "description": "A toner with 3% niacinamide and rice water, for brighter skin and a smoother texture.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Plum Goodness",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "150 ml",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@plumgoodness.com, +91 75064 96604"
+   }
+  },
+  "dbff1e6c-c6d2-513c-a2b5-647903c1e546": {
+   "product": {
+    "description": "Minimalist's 10% niacinamide face serum.\nWhen to use: morning and night, every day.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says where it fits in a routine, and why."
+   },
+   "seller": {
+    "legal_name": "Uprising Science Pvt. Ltd.",
+    "address": "2nd Floor, Commercial Building, Hotel Marriott, New Jawahar Circle, Gandhi Nagar, Jaipur 302015",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "10 ml, 20 ml, 30 ml or 60 ml",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 97723 46555"
+   }
+  },
+  "f1096e1e-eb74-5e59-a478-cd8a2c60920e": {
+   "product": {
+    "description": "Minimalist's moisturiser with 10% vitamin B5.\nWhen to use: morning and night, every day.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Uprising Science Pvt. Ltd.",
+    "address": "2nd Floor, Commercial Building, Hotel Marriott, New Jawahar Circle, Gandhi Nagar, Jaipur 302015",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "50 g or 100 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 97723 46555"
+   }
+  },
+  "138d000b-c43b-5081-8934-b7b109d4c9ea": {
+   "product": {
+    "description": "Minimalist's SPF 50 sunscreen.\nWhen to use: every morning, as the last step.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says where it fits in a routine, and why."
+   },
+   "seller": {
+    "legal_name": "Uprising Science Pvt. Ltd.",
+    "address": "2nd Floor, Commercial Building, Hotel Marriott, New Jawahar Circle, Gandhi Nagar, Jaipur 302015",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "30 g, 50 g or 100 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 97723 46555"
+   }
+  },
+  "1a97e47e-4853-5c4a-9244-176c1bf1e03c": {
+   "product": {
+    "description": "A fragrance-free, vegan serum with 10% niacinamide and rice water, made for oily, acne-prone and combination skin.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Plum Goodness",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "15 ml, 30 ml or 50 ml",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@plumgoodness.com, +91 75064 96604"
+   }
+  },
+  "68cdbdf4-edd9-5493-a942-cf9f0bc9b6a8": {
+   "product": {
+    "description": "Vitamin C with mandarin and Kakadu plum extracts, for dull skin and dark spots.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Plum Goodness",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "20 ml or 30 ml",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@plumgoodness.com, +91 75064 96604"
+   }
+  },
+  "d3ff6de7-8361-568f-b3fa-ddf9d5c2b7a8": {
+   "product": {
+    "description": "Minimalist's 10% vitamin C face serum.\nWhen to use: morning and night, every day.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Uprising Science Pvt. Ltd.",
+    "address": "2nd Floor, Commercial Building, Hotel Marriott, New Jawahar Circle, Gandhi Nagar, Jaipur 302015",
+    "state_code": "RJ"
+   },
+   "rules": {
+    "lm_net_quantity": "10 ml, 20 ml or 30 ml",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 97723 46555"
+   }
+  },
+  "4757913a-7327-5f81-b127-8d684f3b7d30": {
+   "product": {
+    "description": "A cooling SPF 50+ sunscreen with watermelon, hyaluronic acid and UV filters, made for oily skin.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Dot & Key Wellness Ltd.",
+    "address": null,
+    "state_code": "WB"
+   },
+   "rules": {
+    "lm_net_quantity": "50 g or 80 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "care@dotandkey.com, 033 4010 0916"
+   }
+  },
+  "925dd539-1975-54d0-aac0-d3cd48ac0d60": {
+   "product": {
+    "description": "An SPF 50+ sunscreen with triple vitamin C, Sicilian blood orange and UV filters.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Dot & Key Wellness Ltd.",
+    "address": null,
+    "state_code": "WB"
+   },
+   "rules": {
+    "lm_net_quantity": "50 g or 80 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "care@dotandkey.com, 033 4010 0916"
+   }
+  },
+  "af08c48a-c857-5cc1-93de-8ba08ed69e74": {
+   "product": {
+    "description": "A jelly moisturiser with dragon fruit and plant PDRN.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Dot & Key Wellness Ltd.",
+    "address": null,
+    "state_code": "WB"
+   },
+   "rules": {
+    "lm_net_quantity": "60 ml",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "care@dotandkey.com, 033 4010 0916"
+   }
+  },
+  "e85fbe7c-01b9-561b-961f-b0d7fc3af5a4": {
+   "product": {
+    "description": "A non-greasy gel moisturiser with 2% niacinamide and rice water, for all-day moisture.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Plum Goodness",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "50 g or 100 g",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@plumgoodness.com, +91 75064 96604"
+   }
+  },
+  "cb5e4076-16c8-571c-a6cb-8ccc5852870c": {
+   "product": {
+    "description": "A matte crayon lipstick in shades made for Indian skin tones, with a creamy base. Cruelty-free.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": "Sample note for this preview. This is where {first} says where it fits in a routine, and why."
+   },
+   "seller": {
+    "legal_name": "SUGAR Cosmetics",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "As printed on the pack",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@sugarcosmetics.com"
+   }
+  },
+  "f8950d51-7901-5ba0-8a7a-99181eac102e": {
+   "product": {
+    "description": "Swiss Beauty's matte lipstick, here in eight shades.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Swiss Beauty",
+    "address": null,
+    "state_code": "DL"
+   },
+   "rules": {
+    "lm_net_quantity": "As printed on the pack",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 80 4431 8965"
+   }
+  },
+  "00b8d5fb-3c0e-583f-a92a-c9f5f7e3b8bc": {
+   "product": {
+    "description": "A buildable foundation stick, light to full coverage, that blends into a skin-like finish. Apply with fingers, a sponge or a brush.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "SUGAR Cosmetics",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "As printed on the pack",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@sugarcosmetics.com"
+   }
+  },
+  "b6faaeff-62dd-546b-a65c-2f11a229ab30": {
+   "product": {
+    "description": "Swiss Beauty's highlighting primer, in three tints.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Swiss Beauty",
+    "address": null,
+    "state_code": "DL"
+   },
+   "rules": {
+    "lm_net_quantity": "As printed on the pack",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 80 4431 8965"
+   }
+  },
+  "c91887f4-586e-5593-9a83-164acc3d0b4f": {
+   "product": {
+    "description": "A three-shade palette with a matte contour, a blush and a highlighter, for warmer Indian skin tones.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "SUGAR Cosmetics",
+    "address": null,
+    "state_code": "MH"
+   },
+   "rules": {
+    "lm_net_quantity": "As printed on the pack",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "hello@sugarcosmetics.com"
+   }
+  },
+  "09967ba1-f6e8-5100-8e7f-5e1c8fe4c297": {
+   "product": {
+    "description": "Swiss Beauty's precision mascara, in black.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Swiss Beauty",
+    "address": null,
+    "state_code": "DL"
+   },
+   "rules": {
+    "lm_net_quantity": "As printed on the pack",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 80 4431 8965"
+   }
+  },
+  "41301e4a-3a3a-50c2-bd47-dfa506c6c168": {
+   "product": {
+    "description": "Swiss Beauty's makeup fixer.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Swiss Beauty",
+    "address": null,
+    "state_code": "DL"
+   },
+   "rules": {
+    "lm_net_quantity": "As printed on the pack",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "+91 80 4431 8965"
+   }
+  },
+  "66970aef-d5df-52f8-84ff-937a08d7294d": {
+   "product": {
+    "description": "A jelly lip balm in three tints: Berry, Toffee Melt and Bubblegum.",
+    "video_url": null,
+    "materials": null,
+    "care_instructions": null,
+    "specifications": null,
+    "size_chart_url": null,
+    "coupon_code": null,
+    "creator_note": null
+   },
+   "seller": {
+    "legal_name": "Dot & Key Wellness Ltd.",
+    "address": null,
+    "state_code": "WB"
+   },
+   "rules": {
+    "lm_net_quantity": "As printed on the pack",
+    "lm_manufacturer": "As printed on the pack",
+    "lm_country_of_origin": "As printed on the pack",
+    "lm_consumer_care": "care@dotandkey.com, 033 4010 0916"
+   }
+  }
+ }
+}

@@ -1,0 +1,595 @@
+/* The start page: Kubal's own type, and the colours of whichever theme the
+   visitor has picked, so the page becomes their shop's colour as they choose. */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --display: "Bricolage Grotesque", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --body: "DM Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --gutter: 16px;
+  --dock: 84px;
+}
+
+@media (min-width: 48rem) {
+  :root {
+    --gutter: 32px;
+  }
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 1rem;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  body,
+  .kd-shop,
+  .kd-dock,
+  .kd-field input,
+  .kd-go,
+  .kd-sign-mark,
+  .kd-phone {
+    transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease;
+  }
+}
+
+.kd-page {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+.kd-top,
+.kd-main,
+.kd-foot {
+  width: 100%;
+  max-width: 78rem;
+  margin: 0 auto;
+  padding-inline: var(--gutter);
+}
+
+.kd-top {
+  padding-block: 18px 6px;
+}
+
+.kd-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--ink);
+  font: 800 1.5rem/1 var(--display);
+  letter-spacing: -0.025em;
+  text-decoration: none;
+}
+
+.kd-k {
+  width: 32px;
+  height: 32px;
+}
+
+.kd-k rect {
+  fill: var(--ink);
+}
+
+.kd-k path {
+  fill: none;
+  stroke: var(--paper);
+  stroke-width: 6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.kd-main {
+  padding-block: 28px calc(var(--dock) + 40px);
+}
+
+.kd-intro h1 {
+  max-width: 11ch;
+  margin: 0;
+  font: 800 clamp(2.6rem, 11vw, 4.6rem)/0.95 var(--display);
+  letter-spacing: -0.04em;
+  text-wrap: balance;
+}
+
+.kd-intro p {
+  max-width: 34rem;
+  margin: 18px 0 0;
+  color: var(--ink-2);
+  font-size: 1.0625rem;
+}
+
+.kd-form {
+  display: grid;
+  gap: 30px;
+  margin-top: 34px;
+}
+
+.kd-field label,
+.kd-group legend {
+  display: block;
+  margin: 0 0 10px;
+  padding: 0;
+  color: var(--ink);
+  font: 700 1.0625rem/1.3 var(--display);
+}
+
+.kd-field input {
+  width: 100%;
+  min-height: 54px;
+  padding: 0 16px;
+  border: 1.5px solid var(--line-2);
+  border-radius: 14px;
+  background: var(--surface);
+  color: var(--ink);
+  font: 500 1.0625rem var(--body);
+  appearance: none;
+}
+
+.kd-field input::placeholder {
+  color: var(--ink-3);
+  opacity: 1;
+}
+
+.kd-field input:focus-visible {
+  border-color: var(--ink);
+  outline: 2px solid var(--ink);
+  outline-offset: 1px;
+}
+
+.kd-field input[aria-invalid="true"] {
+  border-color: var(--danger);
+}
+
+.kd-handle {
+  position: relative;
+}
+
+.kd-handle span {
+  position: absolute;
+  top: 50%;
+  left: 16px;
+  color: var(--ink-3);
+  font: 600 1.0625rem var(--body);
+  transform: translateY(-52%);
+  pointer-events: none;
+}
+
+.kd-handle input {
+  padding-left: 36px;
+}
+
+.kd-hint,
+.kd-problem {
+  margin: 8px 0 0;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.kd-hint {
+  color: var(--ink-3);
+}
+
+.kd-group .kd-hint {
+  margin: -4px 0 14px;
+}
+
+.kd-problem {
+  color: var(--danger);
+  font-weight: 600;
+}
+
+.kd-group {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.kd-shops {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.kd-shop,
+.kd-theme {
+  position: relative;
+  cursor: pointer;
+}
+
+.kd-shop input,
+.kd-theme input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  opacity: 0;
+}
+
+.kd-shop {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  overflow: hidden;
+  border: 1.5px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface);
+}
+
+.kd-shop:has(input:checked) {
+  border-color: var(--ink);
+  box-shadow: 0 0 0 1.5px var(--ink);
+}
+
+.kd-shop:has(input:focus-visible) {
+  outline: 3px solid var(--ink);
+  outline-offset: 3px;
+}
+
+.kd-tick {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: none;
+  width: 30px;
+  height: 30px;
+  border: 2px solid var(--surface);
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+.kd-tick::before {
+  content: "";
+  position: absolute;
+  top: 6px;
+  left: 9px;
+  width: 7px;
+  height: 12px;
+  border-right: 2.5px solid var(--accent-ink);
+  border-bottom: 2.5px solid var(--accent-ink);
+  transform: rotate(45deg);
+}
+
+.kd-shop:has(input:checked) .kd-tick {
+  display: block;
+}
+
+.kd-shop-media {
+  display: block;
+  aspect-ratio: 1;
+  background: var(--sunk);
+}
+
+.kd-shop-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.kd-shop-text {
+  display: grid;
+  align-content: start;
+  gap: 4px;
+  padding: 12px 12px 14px;
+}
+
+.kd-shop-kind {
+  color: var(--ink-2);
+  font: 600 0.875rem/1.2 var(--body);
+}
+
+.kd-shop-name {
+  color: var(--ink);
+  overflow-wrap: anywhere;
+}
+
+.kd-shop-blurb {
+  color: var(--ink-3);
+  font-size: 0.8125rem;
+  line-height: 1.35;
+}
+
+/* Each shop's name in its own heading face, the one its shop is set in. */
+.kd-face-health {
+  font: 400 1.65rem/0.95 "Bebas Neue", "Arial Narrow", sans-serif;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.kd-face-fashion {
+  font: 400 1.6rem/1 "Instrument Serif", Georgia, serif;
+}
+
+.kd-face-beauty {
+  font: 800 1.2rem/1.1 Nunito, ui-rounded, system-ui, sans-serif;
+}
+
+.kd-face-footwear {
+  font: 700 1rem/1.15 Syne, system-ui, sans-serif;
+  text-transform: uppercase;
+}
+
+.kd-themes {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px 10px;
+}
+
+.kd-theme {
+  display: grid;
+  justify-items: center;
+  gap: 7px;
+}
+
+.kd-swatch {
+  display: grid;
+  align-content: space-between;
+  width: 100%;
+  aspect-ratio: 1;
+  padding: 11px;
+  border: 1.5px solid var(--sw-line);
+  border-radius: 16px;
+  background: var(--sw-paper);
+}
+
+.kd-swatch-dot {
+  width: 46%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: var(--sw-accent);
+}
+
+.kd-swatch-line {
+  width: 78%;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--sw-ink);
+}
+
+.kd-swatch-short {
+  width: 48%;
+  margin-top: -6px;
+  opacity: 0.55;
+}
+
+.kd-theme-name {
+  color: var(--ink-2);
+  font-size: 0.8125rem;
+  font-weight: 600;
+}
+
+.kd-theme:has(input:checked) .kd-swatch {
+  outline: 2.5px solid var(--ink);
+  outline-offset: 3px;
+}
+
+.kd-theme:has(input:checked) .kd-theme-name {
+  color: var(--ink);
+}
+
+.kd-theme:has(input:focus-visible) .kd-swatch {
+  outline: 3px solid var(--ink);
+  outline-offset: 4px;
+}
+
+/* On a phone the sign and the button are always in reach, and the sign says
+   what opens: the shop's name in its own face, in the colour picked. */
+.kd-dock {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: var(--dock);
+  padding: 12px var(--gutter) calc(12px + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--line);
+  background: var(--surface);
+  box-shadow: 0 -12px 32px rgb(0 0 0 / 8%);
+}
+
+.kd-sign {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+.kd-sign-mark {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font: 800 1.15rem/1 var(--display);
+}
+
+.kd-sign-text {
+  display: grid;
+  min-width: 0;
+}
+
+.kd-sign-name {
+  overflow: hidden;
+  color: var(--ink);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.kd-sign-name.kd-face-health {
+  font-size: 1.45rem;
+}
+
+.kd-sign-name.kd-face-fashion {
+  font-size: 1.4rem;
+}
+
+.kd-sign-name.kd-face-beauty {
+  font-size: 1.08rem;
+}
+
+.kd-sign-name.kd-face-footwear {
+  font-size: 0.92rem;
+}
+
+.kd-sign-kind {
+  overflow: hidden;
+  color: var(--ink-3);
+  font-size: 0.78rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.kd-go {
+  flex: none;
+  min-height: 52px;
+  padding: 0 22px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font: 700 1rem/1 var(--body);
+  cursor: pointer;
+}
+
+.kd-go:focus-visible {
+  outline: 3px solid var(--ink);
+  outline-offset: 3px;
+}
+
+.kd-go:active {
+  transform: translateY(1px);
+}
+
+.kd-preview {
+  display: none;
+}
+
+.kd-foot {
+  padding-block: 0 calc(var(--dock) + 28px);
+  color: var(--ink-3);
+  font-size: 0.8125rem;
+}
+
+.kd-foot p {
+  max-width: 40rem;
+  margin: 0;
+}
+
+@media (min-width: 64rem) {
+  :root {
+    --dock: 0px;
+  }
+
+  .kd-main {
+    display: grid;
+    grid-template-columns: minmax(0, 36rem) 400px;
+    grid-template-rows: auto 1fr;
+    justify-content: space-between;
+    column-gap: 56px;
+    padding-block: 36px 56px;
+  }
+
+  .kd-intro {
+    grid-column: 1;
+  }
+
+  .kd-form {
+    grid-column: 1;
+  }
+
+  .kd-dock {
+    position: static;
+    padding: 14px 14px 14px 16px;
+    border: 1.5px solid var(--line);
+    border-radius: 22px;
+    box-shadow: none;
+  }
+
+  .kd-preview {
+    position: sticky;
+    top: 24px;
+    display: block;
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    align-self: start;
+  }
+
+  .kd-phone {
+    position: relative;
+    height: min(800px, calc(100vh - 110px));
+    overflow: hidden;
+    border: 1.5px solid var(--line-2);
+    border-radius: 30px;
+    background: var(--sunk);
+  }
+
+  .kd-phone iframe {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .kd-preview[data-state="empty"] iframe {
+    visibility: hidden;
+  }
+
+  .kd-preview-empty {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-content: center;
+    margin: 0;
+    padding: 40px;
+    color: var(--ink-3);
+    font: 600 1.05rem/1.4 var(--display);
+    text-align: center;
+  }
+
+  .kd-preview[data-state="shop"] .kd-preview-empty {
+    display: none;
+  }
+
+  .kd-preview-note {
+    margin: 12px 8px 0;
+    color: var(--ink-3);
+    font-size: 0.8125rem;
+    text-align: center;
+  }
+
+  .kd-foot {
+    padding-block: 0 40px;
+  }
+}
+
+.kd-go-link {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 28px;
+  text-decoration: none;
+}
+
+.kd-missing {
+  padding-bottom: 80px;
+}

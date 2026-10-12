@@ -1057,13 +1057,23 @@ main {
   }
 }
 
+/* Every card in a row is as tall as the tallest, whatever the length of its
+   price, so framed and outlined cards end on one line. */
+.products > li {
+  display: grid;
+  min-width: 0;
+}
+
 .card {
   position: relative;
+  display: flex;
+  flex-direction: column;
   min-width: 0;
 }
 
 .card-link {
   display: block;
+  flex: 1 0 auto;
   color: inherit;
   text-decoration: none;
 }
@@ -1235,6 +1245,13 @@ main {
 
 .price-compact .price-now {
   font-size: 0.92rem;
+}
+
+/* On a card the price has a line of its own and what it was sits below it, so
+   the figures are at the same height in every card of a row instead of
+   wrapping wherever a long price happens to. */
+.card .price-compact .price-now {
+  flex-basis: 100%;
 }
 
 .price-compact .price-mrp-group,
@@ -2250,6 +2267,7 @@ main {
 }
 
 .rail-list > li {
+  display: grid;
   min-width: 0;
   scroll-snap-align: start;
 }
@@ -4163,4 +4181,13 @@ main > h1 {
   margin: 40vh auto 0;
   color: var(--ink-3);
   text-align: center;
+}
+
+/* The demo's own line across the top of each shop. */
+.demo-bar a {
+  color: inherit;
+  font-weight: 750;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  white-space: nowrap;
 }
